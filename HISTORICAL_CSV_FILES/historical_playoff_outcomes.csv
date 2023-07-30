@@ -1,0 +1,355 @@
+Year,Event,Team,Result
+2022,World Series,Philadelphia Phillies,L
+2022,ALCS,New York Yankees,L
+2022,NLCS,San Diego Padres,L
+2022,ALDS,Cleveland Guardians,L
+2022,ALDS,Seattle Mariners,L
+2022,NLDS,Atlanta Braves,L
+2022,NLDS,Los Angeles Dodgers,L
+2022,ALWC,Tampa Bay Rays,L
+2022,NLWC,New York Mets,L
+2022,ALWC,Toronto Blue Jays,L
+2022,NLWC,St. Louis Cardinals,L
+2021,World Series,Houston Astros,L
+2021,ALCS,Boston Red Sox,L
+2021,NLCS,Los Angeles Dodgers,L
+2021,ALDS,Chicago White Sox,L
+2021,ALDS,Tampa Bay Rays,L
+2021,NLDS,Milwaukee Brewers,L
+2021,NLDS,San Francisco Giants,L
+2021,ALWC,New York Yankees,L
+2021,NLWC,St. Louis Cardinals,L
+2020,World Series,Tampa Bay Rays,L
+2020,ALCS,Houston Astros,L
+2020,NLCS,Atlanta Braves,L
+2020,ALDS,New York Yankees,L
+2020,ALDS,Oakland Athletics,L
+2020,NLDS,San Diego Padres,L
+2020,NLDS,Miami Marlins,L
+2020,ALWC,Toronto Blue Jays,L
+2020,NLWC,Milwaukee Brewers,L
+2020,ALWC,Cleveland Indians,L
+2020,NLWC,St. Louis Cardinals,L
+2020,ALWC,Minnesota Twins,L
+2020,NLWC,Chicago Cubs,L
+2020,ALWC,Chicago White Sox,L
+2020,NLWC,Cincinnati Reds,L
+2019,World Series,Houston Astros,L
+2019,ALCS,New York Yankees,L
+2019,NLCS,St. Louis Cardinals,L
+2019,ALDS,Tampa Bay Rays,L
+2019,ALDS,Minnesota Twins,L
+2019,NLDS,Los Angeles Dodgers,L
+2019,NLDS,Atlanta Braves,L
+2019,ALWC,Oakland Athletics,L
+2019,NLWC,Milwaukee Brewers,L
+2018,World Series,Los Angeles Dodgers,L
+2018,ALCS,Houston Astros,L
+2018,NLCS,Milwaukee Brewers,L
+2018,ALDS,New York Yankees,L
+2018,ALDS,Cleveland Indians,L
+2018,NLDS,Colorado Rockies,L
+2018,NLDS,Atlanta Braves,L
+2018,ALWC,Oakland Athletics,L
+2018,NLWC,Chicago Cubs,L
+2017,World Series,Los Angeles Dodgers,L
+2017,ALCS,New York Yankees,L
+2017,NLCS,Chicago Cubs,L
+2017,ALDS,Cleveland Indians,L
+2017,ALDS,Boston Red Sox,L
+2017,NLDS,Arizona Diamondbacks,L
+2017,NLDS,Washington Nationals,L
+2017,ALWC,Minnesota Twins,L
+2017,NLWC,Colorado Rockies,L
+2016,World Series,Cleveland Indians,L
+2016,ALCS,Toronto Blue Jays,L
+2016,NLCS,Los Angeles Dodgers,L
+2016,ALDS,Texas Rangers,L
+2016,ALDS,Boston Red Sox,L
+2016,NLDS,San Francisco Giants,L
+2016,NLDS,Washington Nationals,L
+2016,ALWC,Baltimore Orioles,L
+2016,NLWC,New York Mets,L
+2015,World Series,New York Mets,L
+2015,ALCS,Toronto Blue Jays,L
+2015,NLCS,Chicago Cubs,L
+2015,ALDS,Houston Astros,L
+2015,ALDS,Texas Rangers,L
+2015,NLDS,St. Louis Cardinals,L
+2015,NLDS,Los Angeles Dodgers,L
+2015,ALWC,New York Yankees,L
+2015,NLWC,Pittsburgh Pirates,L
+2014,World Series,Kansas City Royals,L
+2014,ALCS,Baltimore Orioles,L
+2014,NLCS,St. Louis Cardinals,L
+2014,ALDS,Los Angeles Angels of Anaheim,L
+2014,ALDS,Detroit Tigers,L
+2014,NLDS,Washington Nationals,L
+2014,NLDS,Los Angeles Dodgers,L
+2014,ALWC,Oakland Athletics,L
+2014,NLWC,Pittsburgh Pirates,L
+2013,World Series,St. Louis Cardinals,L
+2013,ALCS,Detroit Tigers,L
+2013,NLCS,Los Angeles Dodgers,L
+2013,ALDS,Tampa Bay Rays,L
+2013,ALDS,Oakland Athletics,L
+2013,NLDS,Pittsburgh Pirates,L
+2013,NLDS,Atlanta Braves,L
+2013,ALWC,Cleveland Indians,L
+2013,NLWC,Cincinnati Reds,L
+2012,World Series,Detroit Tigers,L
+2012,ALCS,New York Yankees,L
+2012,NLCS,St. Louis Cardinals,L
+2012,ALDS,Baltimore Orioles,L
+2012,ALDS,Oakland Athletics,L
+2012,NLDS,Washington Nationals,L
+2012,NLDS,Cincinnati Reds,L
+2012,ALWC,Texas Rangers,L
+2012,NLWC,Atlanta Braves,L
+2011,World Series,Texas Rangers,L
+2011,ALCS,Detroit Tigers,L
+2011,NLCS,Milwaukee Brewers,L
+2011,ALDS,New York Yankees,L
+2011,ALDS,Tampa Bay Rays,L
+2011,NLDS,Philadelphia Phillies,L
+2011,NLDS,Arizona Diamondbacks,L
+2010,World Series,Texas Rangers,L
+2010,ALCS,New York Yankees,L
+2010,NLCS,Philadelphia Phillies,L
+2010,ALDS,Tampa Bay Rays,L
+2010,ALDS,Minnesota Twins,L
+2010,NLDS,Cincinnati Reds,L
+2010,NLDS,Atlanta Braves,L
+2009,World Series,Philadelphia Phillies,L
+2009,ALCS,Los Angeles Angels of Anaheim,L
+2009,NLCS,Los Angeles Dodgers,L
+2009,ALDS,Minnesota Twins,L
+2009,ALDS,Boston Red Sox,L
+2009,NLDS,St. Louis Cardinals,L
+2009,NLDS,Colorado Rockies,L
+2008,World Series,Tampa Bay Rays,L
+2008,ALCS,Boston Red Sox,L
+2008,NLCS,Los Angeles Dodgers,L
+2008,ALDS,Los Angeles Angels of Anaheim,L
+2008,ALDS,Chicago White Sox,L
+2008,NLDS,Chicago Cubs,L
+2008,NLDS,Milwaukee Brewers,L
+2007,World Series,Colorado Rockies,L
+2007,ALCS,Cleveland Indians,L
+2007,NLCS,Arizona Diamondbacks,L
+2007,ALDS,Los Angeles Angels of Anaheim,L
+2007,ALDS,New York Yankees,L
+2007,NLDS,Chicago Cubs,L
+2007,NLDS,Philadelphia Phillies,L
+2006,World Series,Detroit Tigers,L
+2006,ALCS,Oakland Athletics,L
+2006,NLCS,New York Mets,L
+2006,ALDS,New York Yankees,L
+2006,ALDS,Minnesota Twins,L
+2006,NLDS,Los Angeles Dodgers,L
+2006,NLDS,San Diego Padres,L
+2005,World Series,Houston Astros,L
+2005,ALCS,Los Angeles Angels of Anaheim,L
+2005,NLCS,St. Louis Cardinals,L
+2005,ALDS,Boston Red Sox,L
+2005,ALDS,New York Yankees,L
+2005,NLDS,San Diego Padres,L
+2005,NLDS,Atlanta Braves,L
+2004,World Series,St. Louis Cardinals,L
+2004,ALCS,New York Yankees,L
+2004,NLCS,Houston Astros,L
+2004,ALDS,Anaheim Angels,L
+2004,ALDS,Minnesota Twins,L
+2004,NLDS,Los Angeles Dodgers,L
+2004,NLDS,Atlanta Braves,L
+2003,World Series,New York Yankees,L
+2003,ALCS,Boston Red Sox,L
+2003,NLCS,Chicago Cubs,L
+2003,ALDS,Minnesota Twins,L
+2003,ALDS,Oakland Athletics,L
+2003,NLDS,San Francisco Giants,L
+2003,NLDS,Atlanta Braves,L
+2002,World Series,San Francisco Giants,L
+2002,ALCS,Minnesota Twins,L
+2002,NLCS,St. Louis Cardinals,L
+2002,ALDS,New York Yankees,L
+2002,ALDS,Oakland Athletics,L
+2002,NLDS,Atlanta Braves,L
+2002,NLDS,Arizona Diamondbacks,L
+2001,World Series,New York Yankees,L
+2001,ALCS,Seattle Mariners,L
+2001,NLCS,Atlanta Braves,L
+2001,ALDS,Cleveland Indians,L
+2001,ALDS,Oakland Athletics,L
+2001,NLDS,Houston Astros,L
+2001,NLDS,St. Louis Cardinals,L
+2000,World Series,New York Mets,L
+2000,ALCS,Seattle Mariners,L
+2000,NLCS,St. Louis Cardinals,L
+2000,ALDS,Oakland Athletics,L
+2000,ALDS,Chicago White Sox,L
+2000,NLDS,Atlanta Braves,L
+2000,NLDS,San Francisco Giants,L
+1999,World Series,Atlanta Braves,L
+1999,ALCS,Boston Red Sox,L
+1999,NLCS,New York Mets,L
+1999,ALDS,Cleveland Indians,L
+1999,ALDS,Texas Rangers,L
+1999,NLDS,Houston Astros,L
+1999,NLDS,Arizona Diamondbacks,L
+1998,World Series,San Diego Padres,L
+1998,ALCS,Cleveland Indians,L
+1998,NLCS,Atlanta Braves,L
+1998,ALDS,Boston Red Sox,L
+1998,ALDS,Texas Rangers,L
+1998,NLDS,Chicago Cubs,L
+1998,NLDS,Houston Astros,L
+1997,World Series,Cleveland Indians,L
+1997,ALCS,Baltimore Orioles,L
+1997,NLCS,Atlanta Braves,L
+1997,ALDS,New York Yankees,L
+1997,ALDS,Seattle Mariners,L
+1997,NLDS,San Francisco Giants,L
+1997,NLDS,Houston Astros,L
+1996,World Series,Atlanta Braves,L
+1996,ALCS,Baltimore Orioles,L
+1996,NLCS,St. Louis Cardinals,L
+1996,ALDS,Cleveland Indians,L
+1996,ALDS,Texas Rangers,L
+1996,NLDS,Los Angeles Dodgers,L
+1996,NLDS,San Diego Padres,L
+1995,World Series,Cleveland Indians,L
+1995,ALCS,Seattle Mariners,L
+1995,NLCS,Cincinnati Reds,L
+1995,ALDS,Boston Red Sox,L
+1995,ALDS,New York Yankees,L
+1995,NLDS,Colorado Rockies,L
+1995,NLDS,Los Angeles Dodgers,L
+1993,World Series,Philadelphia Phillies,L
+1993,ALCS,Chicago White Sox,L
+1993,NLCS,Atlanta Braves,L
+1992,World Series,Atlanta Braves,L
+1992,ALCS,Oakland Athletics,L
+1992,NLCS,Pittsburgh Pirates,L
+1991,World Series,Atlanta Braves,L
+1991,ALCS,Toronto Blue Jays,L
+1991,NLCS,Pittsburgh Pirates,L
+1990,World Series,Oakland Athletics,L
+1990,ALCS,Boston Red Sox,L
+1990,NLCS,Pittsburgh Pirates,L
+1989,World Series,San Francisco Giants,L
+1989,ALCS,Toronto Blue Jays,L
+1989,NLCS,Chicago Cubs,L
+1988,World Series,Oakland Athletics,L
+1988,ALCS,Boston Red Sox,L
+1988,NLCS,New York Mets,L
+1987,World Series,St. Louis Cardinals,L
+1987,ALCS,Detroit Tigers,L
+1987,NLCS,San Francisco Giants,L
+1986,World Series,Boston Red Sox,L
+1986,ALCS,California Angels,L
+1986,NLCS,Houston Astros,L
+1985,World Series,St. Louis Cardinals,L
+1985,ALCS,Toronto Blue Jays,L
+1985,NLCS,Los Angeles Dodgers,L
+1984,World Series,San Diego Padres,L
+1984,ALCS,Kansas City Royals,L
+1984,NLCS,Chicago Cubs,L
+1983,World Series,Philadelphia Phillies,L
+1983,ALCS,Chicago White Sox,L
+1983,NLCS,Los Angeles Dodgers,L
+1982,World Series,Milwaukee Brewers,L
+1982,ALCS,California Angels,L
+1982,NLCS,Atlanta Braves,L
+1981,World Series,New York Yankees,L
+1981,ALCS,Oakland Athletics,L
+1981,NLCS,Montreal Expos,L
+1981,AEDIV,Milwaukee Brewers,L
+1981,AWDIV,Kansas City Royals,L
+1981,NEDIV,Philadelphia Phillies,L
+1981,NWDIV,Houston Astros,L
+1980,World Series,Kansas City Royals,L
+1980,ALCS,New York Yankees,L
+1980,NLCS,Houston Astros,L
+1979,World Series,Baltimore Orioles,L
+1979,ALCS,California Angels,L
+1979,NLCS,Cincinnati Reds,L
+1978,World Series,Los Angeles Dodgers,L
+1978,ALCS,Kansas City Royals,L
+1978,NLCS,Philadelphia Phillies,L
+1977,World Series,Los Angeles Dodgers,L
+1977,ALCS,Kansas City Royals,L
+1977,NLCS,Philadelphia Phillies,L
+1976,World Series,New York Yankees,L
+1976,ALCS,Kansas City Royals,L
+1976,NLCS,Philadelphia Phillies,L
+1975,World Series,Boston Red Sox,L
+1975,ALCS,Oakland Athletics,L
+1975,NLCS,Pittsburgh Pirates,L
+1974,World Series,Los Angeles Dodgers,L
+1974,ALCS,Baltimore Orioles,L
+1974,NLCS,Pittsburgh Pirates,L
+1973,World Series,New York Mets,L
+1973,ALCS,Baltimore Orioles,L
+1973,NLCS,Cincinnati Reds,L
+1972,World Series,Cincinnati Reds,L
+1972,ALCS,Detroit Tigers,L
+1972,NLCS,Pittsburgh Pirates,L
+1971,World Series,Baltimore Orioles,L
+1971,ALCS,Oakland Athletics,L
+1971,NLCS,San Francisco Giants,L
+1970,World Series,Cincinnati Reds,L
+1970,ALCS,Minnesota Twins,L
+1970,NLCS,Pittsburgh Pirates,L
+2022,World Series,Houston Astros,W
+2021,World Series,Atlanta Braves,W
+2020,World Series,Los Angeles Dodgers,W
+2019,World Series,Washington Nationals,W
+2018,World Series,Boston Red Sox,W
+2017,World Series,Houston Astros,W
+2016,World Series,Chicago Cubs,W
+2015,World Series,Kansas City Royals,W
+2014,World Series,San Francisco Giants,W
+2013,World Series,Boston Red Sox,W
+2012,World Series,San Francisco Giants,W
+2011,World Series,St. Louis Cardinals,W
+2010,World Series,San Francisco Giants,W
+2009,World Series,New York Yankees,W
+2008,World Series,Philadelphia Phillies,W
+2007,World Series,Boston Red Sox,W
+2006,World Series,St. Louis Cardinals,W
+2005,World Series,Chicago White Sox,W
+2004,World Series,Boston Red Sox,W
+2003,World Series,Florida Marlins,W
+2002,World Series,Anaheim Angels,W
+2001,World Series,Arizona Diamondbacks,W
+2000,World Series,New York Yankees,W
+1999,World Series,New York Yankees,W
+1998,World Series,New York Yankees,W
+1997,World Series,Florida Marlins,W
+1996,World Series,New York Yankees,W
+1995,World Series,Atlanta Braves,W
+1993,World Series,Toronto Blue Jays,W
+1992,World Series,Toronto Blue Jays,W
+1991,World Series,Minnesota Twins,W
+1990,World Series,Cincinnati Reds,W
+1989,World Series,Oakland Athletics,W
+1988,World Series,Los Angeles Dodgers,W
+1987,World Series,Minnesota Twins,W
+1986,World Series,New York Mets,W
+1985,World Series,Kansas City Royals,W
+1984,World Series,Detroit Tigers,W
+1983,World Series,Baltimore Orioles,W
+1982,World Series,St. Louis Cardinals,W
+1981,World Series,Los Angeles Dodgers,W
+1980,World Series,Philadelphia Phillies,W
+1979,World Series,Pittsburgh Pirates,W
+1978,World Series,New York Yankees,W
+1977,World Series,New York Yankees,W
+1976,World Series,Cincinnati Reds,W
+1975,World Series,Cincinnati Reds,W
+1974,World Series,Oakland Athletics,W
+1973,World Series,Oakland Athletics,W
+1972,World Series,Oakland Athletics,W
+1971,World Series,Pittsburgh Pirates,W
+1970,World Series,Baltimore Orioles,W

@@ -1,0 +1,2649 @@
+Date,plus_minus,Team,Year
+1970-10-03,1,Cincinnati Reds,1970
+1970-10-04,2,Cincinnati Reds,1970
+1970-10-05,3,Cincinnati Reds,1970
+1970-10-10,2,Cincinnati Reds,1970
+1970-10-11,1,Cincinnati Reds,1970
+1970-10-13,0,Cincinnati Reds,1970
+1970-10-14,1,Cincinnati Reds,1970
+1970-10-15,0,Cincinnati Reds,1970
+1970-10-03,1,Baltimore Orioles,1970
+1970-10-04,2,Baltimore Orioles,1970
+1970-10-05,3,Baltimore Orioles,1970
+1970-10-10,4,Baltimore Orioles,1970
+1970-10-11,5,Baltimore Orioles,1970
+1970-10-13,6,Baltimore Orioles,1970
+1970-10-14,5,Baltimore Orioles,1970
+1970-10-15,6,Baltimore Orioles,1970
+1970-10-03,-1,Pittsburgh Pirates,1970
+1970-10-04,-2,Pittsburgh Pirates,1970
+1970-10-05,-3,Pittsburgh Pirates,1970
+1970-10-03,-1,Minnesota Twins,1970
+1970-10-04,-2,Minnesota Twins,1970
+1970-10-05,-3,Minnesota Twins,1970
+1971-10-03,1,Baltimore Orioles,1971
+1971-10-04,2,Baltimore Orioles,1971
+1971-10-05,3,Baltimore Orioles,1971
+1971-10-09,4,Baltimore Orioles,1971
+1971-10-11,5,Baltimore Orioles,1971
+1971-10-12,4,Baltimore Orioles,1971
+1971-10-13,3,Baltimore Orioles,1971
+1971-10-14,2,Baltimore Orioles,1971
+1971-10-16,3,Baltimore Orioles,1971
+1971-10-17,2,Baltimore Orioles,1971
+1971-10-02,-1,Pittsburgh Pirates,1971
+1971-10-03,0,Pittsburgh Pirates,1971
+1971-10-05,1,Pittsburgh Pirates,1971
+1971-10-06,2,Pittsburgh Pirates,1971
+1971-10-09,1,Pittsburgh Pirates,1971
+1971-10-11,0,Pittsburgh Pirates,1971
+1971-10-12,1,Pittsburgh Pirates,1971
+1971-10-13,2,Pittsburgh Pirates,1971
+1971-10-14,3,Pittsburgh Pirates,1971
+1971-10-16,2,Pittsburgh Pirates,1971
+1971-10-17,3,Pittsburgh Pirates,1971
+1971-10-03,-1,Oakland Athletics,1971
+1971-10-04,-2,Oakland Athletics,1971
+1971-10-05,-3,Oakland Athletics,1971
+1971-10-02,1,San Francisco Giants,1971
+1971-10-03,0,San Francisco Giants,1971
+1971-10-05,-1,San Francisco Giants,1971
+1971-10-06,-2,San Francisco Giants,1971
+1972-10-07,-1,Cincinnati Reds,1972
+1972-10-08,0,Cincinnati Reds,1972
+1972-10-09,-1,Cincinnati Reds,1972
+1972-10-10,0,Cincinnati Reds,1972
+1972-10-11,1,Cincinnati Reds,1972
+1972-10-14,0,Cincinnati Reds,1972
+1972-10-15,-1,Cincinnati Reds,1972
+1972-10-18,0,Cincinnati Reds,1972
+1972-10-19,-1,Cincinnati Reds,1972
+1972-10-20,0,Cincinnati Reds,1972
+1972-10-21,1,Cincinnati Reds,1972
+1972-10-22,0,Cincinnati Reds,1972
+1972-10-07,1,Pittsburgh Pirates,1972
+1972-10-08,0,Pittsburgh Pirates,1972
+1972-10-09,1,Pittsburgh Pirates,1972
+1972-10-10,0,Pittsburgh Pirates,1972
+1972-10-11,-1,Pittsburgh Pirates,1972
+1972-10-07,1,Oakland Athletics,1972
+1972-10-08,2,Oakland Athletics,1972
+1972-10-10,1,Oakland Athletics,1972
+1972-10-11,0,Oakland Athletics,1972
+1972-10-12,1,Oakland Athletics,1972
+1972-10-14,2,Oakland Athletics,1972
+1972-10-15,3,Oakland Athletics,1972
+1972-10-18,2,Oakland Athletics,1972
+1972-10-19,3,Oakland Athletics,1972
+1972-10-20,2,Oakland Athletics,1972
+1972-10-21,1,Oakland Athletics,1972
+1972-10-22,2,Oakland Athletics,1972
+1972-10-07,-1,Detroit Tigers,1972
+1972-10-08,-2,Detroit Tigers,1972
+1972-10-10,-1,Detroit Tigers,1972
+1972-10-11,0,Detroit Tigers,1972
+1972-10-12,-1,Detroit Tigers,1972
+1973-10-06,1,Cincinnati Reds,1973
+1973-10-07,0,Cincinnati Reds,1973
+1973-10-08,-1,Cincinnati Reds,1973
+1973-10-09,0,Cincinnati Reds,1973
+1973-10-10,-1,Cincinnati Reds,1973
+1973-10-06,1,Baltimore Orioles,1973
+1973-10-07,0,Baltimore Orioles,1973
+1973-10-09,-1,Baltimore Orioles,1973
+1973-10-10,0,Baltimore Orioles,1973
+1973-10-11,-1,Baltimore Orioles,1973
+1973-10-06,-1,Oakland Athletics,1973
+1973-10-07,0,Oakland Athletics,1973
+1973-10-09,1,Oakland Athletics,1973
+1973-10-10,0,Oakland Athletics,1973
+1973-10-11,1,Oakland Athletics,1973
+1973-10-13,2,Oakland Athletics,1973
+1973-10-14,1,Oakland Athletics,1973
+1973-10-16,2,Oakland Athletics,1973
+1973-10-17,1,Oakland Athletics,1973
+1973-10-18,0,Oakland Athletics,1973
+1973-10-20,1,Oakland Athletics,1973
+1973-10-21,2,Oakland Athletics,1973
+1973-10-06,-1,New York Mets,1973
+1973-10-07,0,New York Mets,1973
+1973-10-08,1,New York Mets,1973
+1973-10-09,0,New York Mets,1973
+1973-10-10,1,New York Mets,1973
+1973-10-13,0,New York Mets,1973
+1973-10-14,1,New York Mets,1973
+1973-10-16,0,New York Mets,1973
+1973-10-17,1,New York Mets,1973
+1973-10-18,2,New York Mets,1973
+1973-10-20,1,New York Mets,1973
+1973-10-21,0,New York Mets,1973
+1974-10-05,1,Baltimore Orioles,1974
+1974-10-06,0,Baltimore Orioles,1974
+1974-10-08,-1,Baltimore Orioles,1974
+1974-10-09,-2,Baltimore Orioles,1974
+1974-10-05,1,Los Angeles Dodgers,1974
+1974-10-06,2,Los Angeles Dodgers,1974
+1974-10-08,1,Los Angeles Dodgers,1974
+1974-10-09,2,Los Angeles Dodgers,1974
+1974-10-12,1,Los Angeles Dodgers,1974
+1974-10-13,2,Los Angeles Dodgers,1974
+1974-10-15,1,Los Angeles Dodgers,1974
+1974-10-16,0,Los Angeles Dodgers,1974
+1974-10-17,-1,Los Angeles Dodgers,1974
+1974-10-05,-1,Pittsburgh Pirates,1974
+1974-10-06,-2,Pittsburgh Pirates,1974
+1974-10-08,-1,Pittsburgh Pirates,1974
+1974-10-09,-2,Pittsburgh Pirates,1974
+1974-10-05,-1,Oakland Athletics,1974
+1974-10-06,0,Oakland Athletics,1974
+1974-10-08,1,Oakland Athletics,1974
+1974-10-09,2,Oakland Athletics,1974
+1974-10-12,3,Oakland Athletics,1974
+1974-10-13,2,Oakland Athletics,1974
+1974-10-15,3,Oakland Athletics,1974
+1974-10-16,4,Oakland Athletics,1974
+1974-10-17,5,Oakland Athletics,1974
+1975-10-04,1,Boston Red Sox,1975
+1975-10-05,2,Boston Red Sox,1975
+1975-10-07,3,Boston Red Sox,1975
+1975-10-11,4,Boston Red Sox,1975
+1975-10-12,3,Boston Red Sox,1975
+1975-10-14,2,Boston Red Sox,1975
+1975-10-15,3,Boston Red Sox,1975
+1975-10-16,2,Boston Red Sox,1975
+1975-10-21,3,Boston Red Sox,1975
+1975-10-22,2,Boston Red Sox,1975
+1975-10-04,1,Cincinnati Reds,1975
+1975-10-05,2,Cincinnati Reds,1975
+1975-10-07,3,Cincinnati Reds,1975
+1975-10-11,2,Cincinnati Reds,1975
+1975-10-12,3,Cincinnati Reds,1975
+1975-10-14,4,Cincinnati Reds,1975
+1975-10-15,3,Cincinnati Reds,1975
+1975-10-16,4,Cincinnati Reds,1975
+1975-10-21,3,Cincinnati Reds,1975
+1975-10-22,4,Cincinnati Reds,1975
+1975-10-04,-1,Pittsburgh Pirates,1975
+1975-10-05,-2,Pittsburgh Pirates,1975
+1975-10-07,-3,Pittsburgh Pirates,1975
+1975-10-04,-1,Oakland Athletics,1975
+1975-10-05,-2,Oakland Athletics,1975
+1975-10-07,-3,Oakland Athletics,1975
+1976-10-09,1,Cincinnati Reds,1976
+1976-10-10,2,Cincinnati Reds,1976
+1976-10-12,3,Cincinnati Reds,1976
+1976-10-16,4,Cincinnati Reds,1976
+1976-10-17,5,Cincinnati Reds,1976
+1976-10-19,6,Cincinnati Reds,1976
+1976-10-21,7,Cincinnati Reds,1976
+1976-10-09,-1,Kansas City Royals,1976
+1976-10-10,0,Kansas City Royals,1976
+1976-10-12,-1,Kansas City Royals,1976
+1976-10-13,0,Kansas City Royals,1976
+1976-10-14,-1,Kansas City Royals,1976
+1976-10-09,-1,Philadelphia Phillies,1976
+1976-10-10,-2,Philadelphia Phillies,1976
+1976-10-12,-3,Philadelphia Phillies,1976
+1976-10-09,1,New York Yankees,1976
+1976-10-10,0,New York Yankees,1976
+1976-10-12,1,New York Yankees,1976
+1976-10-13,0,New York Yankees,1976
+1976-10-14,1,New York Yankees,1976
+1976-10-16,0,New York Yankees,1976
+1976-10-17,-1,New York Yankees,1976
+1976-10-19,-2,New York Yankees,1976
+1976-10-21,-3,New York Yankees,1976
+1977-10-04,-1,Los Angeles Dodgers,1977
+1977-10-05,0,Los Angeles Dodgers,1977
+1977-10-07,1,Los Angeles Dodgers,1977
+1977-10-08,2,Los Angeles Dodgers,1977
+1977-10-11,1,Los Angeles Dodgers,1977
+1977-10-12,2,Los Angeles Dodgers,1977
+1977-10-14,1,Los Angeles Dodgers,1977
+1977-10-15,0,Los Angeles Dodgers,1977
+1977-10-16,1,Los Angeles Dodgers,1977
+1977-10-18,0,Los Angeles Dodgers,1977
+1977-10-05,1,Kansas City Royals,1977
+1977-10-06,0,Kansas City Royals,1977
+1977-10-07,1,Kansas City Royals,1977
+1977-10-08,0,Kansas City Royals,1977
+1977-10-09,-1,Kansas City Royals,1977
+1977-10-04,1,Philadelphia Phillies,1977
+1977-10-05,0,Philadelphia Phillies,1977
+1977-10-07,-1,Philadelphia Phillies,1977
+1977-10-08,-2,Philadelphia Phillies,1977
+1977-10-05,-1,New York Yankees,1977
+1977-10-06,0,New York Yankees,1977
+1977-10-07,-1,New York Yankees,1977
+1977-10-08,0,New York Yankees,1977
+1977-10-09,1,New York Yankees,1977
+1977-10-11,2,New York Yankees,1977
+1977-10-12,1,New York Yankees,1977
+1977-10-14,2,New York Yankees,1977
+1977-10-15,3,New York Yankees,1977
+1977-10-16,2,New York Yankees,1977
+1977-10-18,3,New York Yankees,1977
+1978-10-04,1,Los Angeles Dodgers,1978
+1978-10-05,2,Los Angeles Dodgers,1978
+1978-10-06,1,Los Angeles Dodgers,1978
+1978-10-07,2,Los Angeles Dodgers,1978
+1978-10-10,3,Los Angeles Dodgers,1978
+1978-10-11,4,Los Angeles Dodgers,1978
+1978-10-13,3,Los Angeles Dodgers,1978
+1978-10-14,2,Los Angeles Dodgers,1978
+1978-10-15,1,Los Angeles Dodgers,1978
+1978-10-17,0,Los Angeles Dodgers,1978
+1978-10-03,-1,Kansas City Royals,1978
+1978-10-04,0,Kansas City Royals,1978
+1978-10-06,-1,Kansas City Royals,1978
+1978-10-07,-2,Kansas City Royals,1978
+1978-10-04,-1,Philadelphia Phillies,1978
+1978-10-05,-2,Philadelphia Phillies,1978
+1978-10-06,-1,Philadelphia Phillies,1978
+1978-10-07,-2,Philadelphia Phillies,1978
+1978-10-03,1,New York Yankees,1978
+1978-10-04,0,New York Yankees,1978
+1978-10-06,1,New York Yankees,1978
+1978-10-07,2,New York Yankees,1978
+1978-10-10,1,New York Yankees,1978
+1978-10-11,0,New York Yankees,1978
+1978-10-13,1,New York Yankees,1978
+1978-10-14,2,New York Yankees,1978
+1978-10-15,3,New York Yankees,1978
+1978-10-17,4,New York Yankees,1978
+1980-10-08,1,Kansas City Royals,1980
+1980-10-09,2,Kansas City Royals,1980
+1980-10-10,3,Kansas City Royals,1980
+1980-10-14,2,Kansas City Royals,1980
+1980-10-15,1,Kansas City Royals,1980
+1980-10-17,2,Kansas City Royals,1980
+1980-10-18,3,Kansas City Royals,1980
+1980-10-19,2,Kansas City Royals,1980
+1980-10-21,1,Kansas City Royals,1980
+1980-10-07,1,Philadelphia Phillies,1980
+1980-10-08,0,Philadelphia Phillies,1980
+1980-10-10,-1,Philadelphia Phillies,1980
+1980-10-11,0,Philadelphia Phillies,1980
+1980-10-12,1,Philadelphia Phillies,1980
+1980-10-14,2,Philadelphia Phillies,1980
+1980-10-15,3,Philadelphia Phillies,1980
+1980-10-17,2,Philadelphia Phillies,1980
+1980-10-18,1,Philadelphia Phillies,1980
+1980-10-19,2,Philadelphia Phillies,1980
+1980-10-21,3,Philadelphia Phillies,1980
+1980-10-08,-1,New York Yankees,1980
+1980-10-09,-2,New York Yankees,1980
+1980-10-10,-3,New York Yankees,1980
+1980-10-07,-1,Houston Astros,1980
+1980-10-08,0,Houston Astros,1980
+1980-10-10,1,Houston Astros,1980
+1980-10-11,0,Houston Astros,1980
+1980-10-12,-1,Houston Astros,1980
+1981-10-06,-1,Los Angeles Dodgers,1981
+1981-10-07,-2,Los Angeles Dodgers,1981
+1981-10-09,-1,Los Angeles Dodgers,1981
+1981-10-10,0,Los Angeles Dodgers,1981
+1981-10-11,1,Los Angeles Dodgers,1981
+1981-10-13,2,Los Angeles Dodgers,1981
+1981-10-14,1,Los Angeles Dodgers,1981
+1981-10-16,0,Los Angeles Dodgers,1981
+1981-10-17,1,Los Angeles Dodgers,1981
+1981-10-19,2,Los Angeles Dodgers,1981
+1981-10-20,1,Los Angeles Dodgers,1981
+1981-10-21,0,Los Angeles Dodgers,1981
+1981-10-23,1,Los Angeles Dodgers,1981
+1981-10-24,2,Los Angeles Dodgers,1981
+1981-10-25,3,Los Angeles Dodgers,1981
+1981-10-28,4,Los Angeles Dodgers,1981
+1981-10-06,1,Oakland Athletics,1981
+1981-10-07,2,Oakland Athletics,1981
+1981-10-09,3,Oakland Athletics,1981
+1981-10-13,2,Oakland Athletics,1981
+1981-10-14,1,Oakland Athletics,1981
+1981-10-15,0,Oakland Athletics,1981
+1981-10-06,-1,Kansas City Royals,1981
+1981-10-07,-2,Kansas City Royals,1981
+1981-10-09,-3,Kansas City Royals,1981
+1981-10-07,1,Montreal Expos,1981
+1981-10-08,2,Montreal Expos,1981
+1981-10-09,1,Montreal Expos,1981
+1981-10-10,0,Montreal Expos,1981
+1981-10-11,1,Montreal Expos,1981
+1981-10-13,0,Montreal Expos,1981
+1981-10-14,1,Montreal Expos,1981
+1981-10-16,2,Montreal Expos,1981
+1981-10-17,1,Montreal Expos,1981
+1981-10-19,0,Montreal Expos,1981
+1981-10-07,-1,Philadelphia Phillies,1981
+1981-10-08,-2,Philadelphia Phillies,1981
+1981-10-09,-1,Philadelphia Phillies,1981
+1981-10-10,0,Philadelphia Phillies,1981
+1981-10-11,-1,Philadelphia Phillies,1981
+1981-10-07,1,New York Yankees,1981
+1981-10-08,2,New York Yankees,1981
+1981-10-09,1,New York Yankees,1981
+1981-10-10,0,New York Yankees,1981
+1981-10-11,1,New York Yankees,1981
+1981-10-13,2,New York Yankees,1981
+1981-10-14,3,New York Yankees,1981
+1981-10-15,4,New York Yankees,1981
+1981-10-20,5,New York Yankees,1981
+1981-10-21,6,New York Yankees,1981
+1981-10-23,5,New York Yankees,1981
+1981-10-24,4,New York Yankees,1981
+1981-10-25,3,New York Yankees,1981
+1981-10-28,2,New York Yankees,1981
+1981-10-07,-1,Milwaukee Brewers,1981
+1981-10-08,-2,Milwaukee Brewers,1981
+1981-10-09,-1,Milwaukee Brewers,1981
+1981-10-10,0,Milwaukee Brewers,1981
+1981-10-11,-1,Milwaukee Brewers,1981
+1981-10-06,1,Houston Astros,1981
+1981-10-07,2,Houston Astros,1981
+1981-10-09,1,Houston Astros,1981
+1981-10-10,0,Houston Astros,1981
+1981-10-11,-1,Houston Astros,1981
+1982-10-07,1,St. Louis Cardinals,1982
+1982-10-09,2,St. Louis Cardinals,1982
+1982-10-10,3,St. Louis Cardinals,1982
+1982-10-12,2,St. Louis Cardinals,1982
+1982-10-13,3,St. Louis Cardinals,1982
+1982-10-15,4,St. Louis Cardinals,1982
+1982-10-16,3,St. Louis Cardinals,1982
+1982-10-17,2,St. Louis Cardinals,1982
+1982-10-19,3,St. Louis Cardinals,1982
+1982-10-20,4,St. Louis Cardinals,1982
+1982-10-05,1,California Angels,1982
+1982-10-06,2,California Angels,1982
+1982-10-08,1,California Angels,1982
+1982-10-09,0,California Angels,1982
+1982-10-10,-1,California Angels,1982
+1982-10-07,-1,Atlanta Braves,1982
+1982-10-09,-2,Atlanta Braves,1982
+1982-10-10,-3,Atlanta Braves,1982
+1982-10-05,-1,Milwaukee Brewers,1982
+1982-10-06,-2,Milwaukee Brewers,1982
+1982-10-08,-1,Milwaukee Brewers,1982
+1982-10-09,0,Milwaukee Brewers,1982
+1982-10-10,1,Milwaukee Brewers,1982
+1982-10-12,2,Milwaukee Brewers,1982
+1982-10-13,1,Milwaukee Brewers,1982
+1982-10-15,0,Milwaukee Brewers,1982
+1982-10-16,1,Milwaukee Brewers,1982
+1982-10-17,2,Milwaukee Brewers,1982
+1982-10-19,1,Milwaukee Brewers,1982
+1982-10-20,0,Milwaukee Brewers,1982
+1983-10-05,1,Chicago White Sox,1983
+1983-10-06,0,Chicago White Sox,1983
+1983-10-07,-1,Chicago White Sox,1983
+1983-10-08,-2,Chicago White Sox,1983
+1983-10-05,-1,Baltimore Orioles,1983
+1983-10-06,0,Baltimore Orioles,1983
+1983-10-07,1,Baltimore Orioles,1983
+1983-10-08,2,Baltimore Orioles,1983
+1983-10-11,1,Baltimore Orioles,1983
+1983-10-12,2,Baltimore Orioles,1983
+1983-10-14,3,Baltimore Orioles,1983
+1983-10-15,4,Baltimore Orioles,1983
+1983-10-16,5,Baltimore Orioles,1983
+1983-10-04,-1,Los Angeles Dodgers,1983
+1983-10-05,0,Los Angeles Dodgers,1983
+1983-10-07,-1,Los Angeles Dodgers,1983
+1983-10-08,-2,Los Angeles Dodgers,1983
+1983-10-04,1,Philadelphia Phillies,1983
+1983-10-05,0,Philadelphia Phillies,1983
+1983-10-07,1,Philadelphia Phillies,1983
+1983-10-08,2,Philadelphia Phillies,1983
+1983-10-11,3,Philadelphia Phillies,1983
+1983-10-12,2,Philadelphia Phillies,1983
+1983-10-14,1,Philadelphia Phillies,1983
+1983-10-15,0,Philadelphia Phillies,1983
+1983-10-16,-1,Philadelphia Phillies,1983
+1984-10-02,1,Chicago Cubs,1984
+1984-10-03,2,Chicago Cubs,1984
+1984-10-04,1,Chicago Cubs,1984
+1984-10-06,0,Chicago Cubs,1984
+1984-10-07,-1,Chicago Cubs,1984
+1984-10-02,-1,Kansas City Royals,1984
+1984-10-03,-2,Kansas City Royals,1984
+1984-10-05,-3,Kansas City Royals,1984
+1984-10-02,-1,San Diego Padres,1984
+1984-10-03,-2,San Diego Padres,1984
+1984-10-04,-1,San Diego Padres,1984
+1984-10-06,0,San Diego Padres,1984
+1984-10-07,1,San Diego Padres,1984
+1984-10-09,0,San Diego Padres,1984
+1984-10-10,1,San Diego Padres,1984
+1984-10-12,0,San Diego Padres,1984
+1984-10-13,-1,San Diego Padres,1984
+1984-10-14,-2,San Diego Padres,1984
+1984-10-02,1,Detroit Tigers,1984
+1984-10-03,2,Detroit Tigers,1984
+1984-10-05,3,Detroit Tigers,1984
+1984-10-09,4,Detroit Tigers,1984
+1984-10-10,3,Detroit Tigers,1984
+1984-10-12,4,Detroit Tigers,1984
+1984-10-13,5,Detroit Tigers,1984
+1984-10-14,6,Detroit Tigers,1984
+1985-10-09,1,Los Angeles Dodgers,1985
+1985-10-10,2,Los Angeles Dodgers,1985
+1985-10-12,1,Los Angeles Dodgers,1985
+1985-10-13,0,Los Angeles Dodgers,1985
+1985-10-14,-1,Los Angeles Dodgers,1985
+1985-10-16,-2,Los Angeles Dodgers,1985
+1985-10-09,-1,St. Louis Cardinals,1985
+1985-10-10,-2,St. Louis Cardinals,1985
+1985-10-12,-1,St. Louis Cardinals,1985
+1985-10-13,0,St. Louis Cardinals,1985
+1985-10-14,1,St. Louis Cardinals,1985
+1985-10-16,2,St. Louis Cardinals,1985
+1985-10-19,3,St. Louis Cardinals,1985
+1985-10-20,4,St. Louis Cardinals,1985
+1985-10-22,3,St. Louis Cardinals,1985
+1985-10-23,4,St. Louis Cardinals,1985
+1985-10-24,3,St. Louis Cardinals,1985
+1985-10-26,2,St. Louis Cardinals,1985
+1985-10-27,1,St. Louis Cardinals,1985
+1985-10-08,1,Toronto Blue Jays,1985
+1985-10-09,2,Toronto Blue Jays,1985
+1985-10-11,1,Toronto Blue Jays,1985
+1985-10-12,2,Toronto Blue Jays,1985
+1985-10-13,1,Toronto Blue Jays,1985
+1985-10-15,0,Toronto Blue Jays,1985
+1985-10-16,-1,Toronto Blue Jays,1985
+1985-10-08,-1,Kansas City Royals,1985
+1985-10-09,-2,Kansas City Royals,1985
+1985-10-11,-1,Kansas City Royals,1985
+1985-10-12,-2,Kansas City Royals,1985
+1985-10-13,-1,Kansas City Royals,1985
+1985-10-15,0,Kansas City Royals,1985
+1985-10-16,1,Kansas City Royals,1985
+1985-10-19,0,Kansas City Royals,1985
+1985-10-20,-1,Kansas City Royals,1985
+1985-10-22,0,Kansas City Royals,1985
+1985-10-23,-1,Kansas City Royals,1985
+1985-10-24,0,Kansas City Royals,1985
+1985-10-26,1,Kansas City Royals,1985
+1985-10-27,2,Kansas City Royals,1985
+1986-10-07,-1,Boston Red Sox,1986
+1986-10-08,0,Boston Red Sox,1986
+1986-10-10,-1,Boston Red Sox,1986
+1986-10-11,-2,Boston Red Sox,1986
+1986-10-12,-1,Boston Red Sox,1986
+1986-10-14,0,Boston Red Sox,1986
+1986-10-15,1,Boston Red Sox,1986
+1986-10-18,2,Boston Red Sox,1986
+1986-10-19,3,Boston Red Sox,1986
+1986-10-21,2,Boston Red Sox,1986
+1986-10-22,1,Boston Red Sox,1986
+1986-10-23,2,Boston Red Sox,1986
+1986-10-25,1,Boston Red Sox,1986
+1986-10-27,0,Boston Red Sox,1986
+1986-10-07,1,California Angels,1986
+1986-10-08,0,California Angels,1986
+1986-10-10,1,California Angels,1986
+1986-10-11,2,California Angels,1986
+1986-10-12,1,California Angels,1986
+1986-10-14,0,California Angels,1986
+1986-10-15,-1,California Angels,1986
+1986-10-08,-1,New York Mets,1986
+1986-10-09,0,New York Mets,1986
+1986-10-11,1,New York Mets,1986
+1986-10-12,0,New York Mets,1986
+1986-10-14,1,New York Mets,1986
+1986-10-15,2,New York Mets,1986
+1986-10-18,1,New York Mets,1986
+1986-10-19,0,New York Mets,1986
+1986-10-21,1,New York Mets,1986
+1986-10-22,2,New York Mets,1986
+1986-10-23,1,New York Mets,1986
+1986-10-25,2,New York Mets,1986
+1986-10-27,3,New York Mets,1986
+1986-10-08,1,Houston Astros,1986
+1986-10-09,0,Houston Astros,1986
+1986-10-11,-1,Houston Astros,1986
+1986-10-12,0,Houston Astros,1986
+1986-10-14,-1,Houston Astros,1986
+1986-10-15,-2,Houston Astros,1986
+1987-10-06,1,St. Louis Cardinals,1987
+1987-10-07,0,St. Louis Cardinals,1987
+1987-10-09,1,St. Louis Cardinals,1987
+1987-10-10,0,St. Louis Cardinals,1987
+1987-10-11,-1,St. Louis Cardinals,1987
+1987-10-13,0,St. Louis Cardinals,1987
+1987-10-14,1,St. Louis Cardinals,1987
+1987-10-17,0,St. Louis Cardinals,1987
+1987-10-18,-1,St. Louis Cardinals,1987
+1987-10-20,0,St. Louis Cardinals,1987
+1987-10-21,1,St. Louis Cardinals,1987
+1987-10-22,2,St. Louis Cardinals,1987
+1987-10-24,1,St. Louis Cardinals,1987
+1987-10-25,0,St. Louis Cardinals,1987
+1987-10-06,-1,San Francisco Giants,1987
+1987-10-07,0,San Francisco Giants,1987
+1987-10-09,-1,San Francisco Giants,1987
+1987-10-10,0,San Francisco Giants,1987
+1987-10-11,1,San Francisco Giants,1987
+1987-10-13,0,San Francisco Giants,1987
+1987-10-14,-1,San Francisco Giants,1987
+1987-10-07,1,Minnesota Twins,1987
+1987-10-08,2,Minnesota Twins,1987
+1987-10-10,1,Minnesota Twins,1987
+1987-10-11,2,Minnesota Twins,1987
+1987-10-12,3,Minnesota Twins,1987
+1987-10-17,4,Minnesota Twins,1987
+1987-10-18,5,Minnesota Twins,1987
+1987-10-20,4,Minnesota Twins,1987
+1987-10-21,3,Minnesota Twins,1987
+1987-10-22,2,Minnesota Twins,1987
+1987-10-24,3,Minnesota Twins,1987
+1987-10-25,4,Minnesota Twins,1987
+1987-10-07,-1,Detroit Tigers,1987
+1987-10-08,-2,Detroit Tigers,1987
+1987-10-10,-1,Detroit Tigers,1987
+1987-10-11,-2,Detroit Tigers,1987
+1987-10-12,-3,Detroit Tigers,1987
+1988-10-05,-1,Boston Red Sox,1988
+1988-10-06,-2,Boston Red Sox,1988
+1988-10-08,-3,Boston Red Sox,1988
+1988-10-09,-4,Boston Red Sox,1988
+1988-10-04,-1,Los Angeles Dodgers,1988
+1988-10-05,0,Los Angeles Dodgers,1988
+1988-10-08,-1,Los Angeles Dodgers,1988
+1988-10-09,0,Los Angeles Dodgers,1988
+1988-10-10,1,Los Angeles Dodgers,1988
+1988-10-11,0,Los Angeles Dodgers,1988
+1988-10-12,1,Los Angeles Dodgers,1988
+1988-10-15,2,Los Angeles Dodgers,1988
+1988-10-16,3,Los Angeles Dodgers,1988
+1988-10-18,2,Los Angeles Dodgers,1988
+1988-10-19,3,Los Angeles Dodgers,1988
+1988-10-20,4,Los Angeles Dodgers,1988
+1988-10-05,1,Oakland Athletics,1988
+1988-10-06,2,Oakland Athletics,1988
+1988-10-08,3,Oakland Athletics,1988
+1988-10-09,4,Oakland Athletics,1988
+1988-10-15,3,Oakland Athletics,1988
+1988-10-16,2,Oakland Athletics,1988
+1988-10-18,3,Oakland Athletics,1988
+1988-10-19,2,Oakland Athletics,1988
+1988-10-20,1,Oakland Athletics,1988
+1988-10-04,1,New York Mets,1988
+1988-10-05,0,New York Mets,1988
+1988-10-08,1,New York Mets,1988
+1988-10-09,0,New York Mets,1988
+1988-10-10,-1,New York Mets,1988
+1988-10-11,0,New York Mets,1988
+1988-10-12,-1,New York Mets,1988
+1990-10-06,-1,Boston Red Sox,1990
+1990-10-07,-2,Boston Red Sox,1990
+1990-10-09,-3,Boston Red Sox,1990
+1990-10-10,-4,Boston Red Sox,1990
+1990-10-04,-1,Cincinnati Reds,1990
+1990-10-05,0,Cincinnati Reds,1990
+1990-10-08,1,Cincinnati Reds,1990
+1990-10-09,2,Cincinnati Reds,1990
+1990-10-10,1,Cincinnati Reds,1990
+1990-10-12,2,Cincinnati Reds,1990
+1990-10-16,3,Cincinnati Reds,1990
+1990-10-17,4,Cincinnati Reds,1990
+1990-10-19,5,Cincinnati Reds,1990
+1990-10-20,6,Cincinnati Reds,1990
+1990-10-04,1,Pittsburgh Pirates,1990
+1990-10-05,0,Pittsburgh Pirates,1990
+1990-10-08,-1,Pittsburgh Pirates,1990
+1990-10-09,-2,Pittsburgh Pirates,1990
+1990-10-10,-1,Pittsburgh Pirates,1990
+1990-10-12,-2,Pittsburgh Pirates,1990
+1990-10-06,1,Oakland Athletics,1990
+1990-10-07,2,Oakland Athletics,1990
+1990-10-09,3,Oakland Athletics,1990
+1990-10-10,4,Oakland Athletics,1990
+1990-10-16,3,Oakland Athletics,1990
+1990-10-17,2,Oakland Athletics,1990
+1990-10-19,1,Oakland Athletics,1990
+1990-10-20,0,Oakland Athletics,1990
+1991-10-09,1,Pittsburgh Pirates,1991
+1991-10-10,0,Pittsburgh Pirates,1991
+1991-10-12,-1,Pittsburgh Pirates,1991
+1991-10-13,0,Pittsburgh Pirates,1991
+1991-10-14,1,Pittsburgh Pirates,1991
+1991-10-16,0,Pittsburgh Pirates,1991
+1991-10-17,-1,Pittsburgh Pirates,1991
+1991-10-08,-1,Toronto Blue Jays,1991
+1991-10-09,0,Toronto Blue Jays,1991
+1991-10-11,-1,Toronto Blue Jays,1991
+1991-10-12,-2,Toronto Blue Jays,1991
+1991-10-13,-3,Toronto Blue Jays,1991
+1991-10-09,-1,Atlanta Braves,1991
+1991-10-10,0,Atlanta Braves,1991
+1991-10-12,1,Atlanta Braves,1991
+1991-10-13,0,Atlanta Braves,1991
+1991-10-14,-1,Atlanta Braves,1991
+1991-10-16,0,Atlanta Braves,1991
+1991-10-17,1,Atlanta Braves,1991
+1991-10-19,0,Atlanta Braves,1991
+1991-10-20,-1,Atlanta Braves,1991
+1991-10-22,0,Atlanta Braves,1991
+1991-10-23,1,Atlanta Braves,1991
+1991-10-24,2,Atlanta Braves,1991
+1991-10-26,1,Atlanta Braves,1991
+1991-10-27,0,Atlanta Braves,1991
+1991-10-08,1,Minnesota Twins,1991
+1991-10-09,0,Minnesota Twins,1991
+1991-10-11,1,Minnesota Twins,1991
+1991-10-12,2,Minnesota Twins,1991
+1991-10-13,3,Minnesota Twins,1991
+1991-10-19,4,Minnesota Twins,1991
+1991-10-20,5,Minnesota Twins,1991
+1991-10-22,4,Minnesota Twins,1991
+1991-10-23,3,Minnesota Twins,1991
+1991-10-24,2,Minnesota Twins,1991
+1991-10-26,3,Minnesota Twins,1991
+1991-10-27,4,Minnesota Twins,1991
+1992-10-06,-1,Pittsburgh Pirates,1992
+1992-10-07,-2,Pittsburgh Pirates,1992
+1992-10-09,-1,Pittsburgh Pirates,1992
+1992-10-10,-2,Pittsburgh Pirates,1992
+1992-10-11,-1,Pittsburgh Pirates,1992
+1992-10-13,0,Pittsburgh Pirates,1992
+1992-10-14,-1,Pittsburgh Pirates,1992
+1992-10-07,1,Oakland Athletics,1992
+1992-10-08,0,Oakland Athletics,1992
+1992-10-10,-1,Oakland Athletics,1992
+1992-10-11,-2,Oakland Athletics,1992
+1992-10-12,-1,Oakland Athletics,1992
+1992-10-14,-2,Oakland Athletics,1992
+1992-10-07,-1,Toronto Blue Jays,1992
+1992-10-08,0,Toronto Blue Jays,1992
+1992-10-10,1,Toronto Blue Jays,1992
+1992-10-11,2,Toronto Blue Jays,1992
+1992-10-12,1,Toronto Blue Jays,1992
+1992-10-14,2,Toronto Blue Jays,1992
+1992-10-17,1,Toronto Blue Jays,1992
+1992-10-18,2,Toronto Blue Jays,1992
+1992-10-20,3,Toronto Blue Jays,1992
+1992-10-21,4,Toronto Blue Jays,1992
+1992-10-22,3,Toronto Blue Jays,1992
+1992-10-24,4,Toronto Blue Jays,1992
+1992-10-06,1,Atlanta Braves,1992
+1992-10-07,2,Atlanta Braves,1992
+1992-10-09,1,Atlanta Braves,1992
+1992-10-10,2,Atlanta Braves,1992
+1992-10-11,1,Atlanta Braves,1992
+1992-10-13,0,Atlanta Braves,1992
+1992-10-14,1,Atlanta Braves,1992
+1992-10-17,2,Atlanta Braves,1992
+1992-10-18,1,Atlanta Braves,1992
+1992-10-20,0,Atlanta Braves,1992
+1992-10-21,-1,Atlanta Braves,1992
+1992-10-22,0,Atlanta Braves,1992
+1992-10-24,-1,Atlanta Braves,1992
+1993-10-05,-1,Chicago White Sox,1993
+1993-10-06,-2,Chicago White Sox,1993
+1993-10-08,-1,Chicago White Sox,1993
+1993-10-09,0,Chicago White Sox,1993
+1993-10-10,-1,Chicago White Sox,1993
+1993-10-12,-2,Chicago White Sox,1993
+1993-10-05,1,Toronto Blue Jays,1993
+1993-10-06,2,Toronto Blue Jays,1993
+1993-10-08,1,Toronto Blue Jays,1993
+1993-10-09,0,Toronto Blue Jays,1993
+1993-10-10,1,Toronto Blue Jays,1993
+1993-10-12,2,Toronto Blue Jays,1993
+1993-10-16,3,Toronto Blue Jays,1993
+1993-10-17,2,Toronto Blue Jays,1993
+1993-10-19,3,Toronto Blue Jays,1993
+1993-10-20,4,Toronto Blue Jays,1993
+1993-10-21,3,Toronto Blue Jays,1993
+1993-10-23,4,Toronto Blue Jays,1993
+1993-10-06,-1,Atlanta Braves,1993
+1993-10-07,0,Atlanta Braves,1993
+1993-10-09,1,Atlanta Braves,1993
+1993-10-10,0,Atlanta Braves,1993
+1993-10-11,-1,Atlanta Braves,1993
+1993-10-13,-2,Atlanta Braves,1993
+1993-10-06,1,Philadelphia Phillies,1993
+1993-10-07,0,Philadelphia Phillies,1993
+1993-10-09,-1,Philadelphia Phillies,1993
+1993-10-10,0,Philadelphia Phillies,1993
+1993-10-11,1,Philadelphia Phillies,1993
+1993-10-13,2,Philadelphia Phillies,1993
+1993-10-16,1,Philadelphia Phillies,1993
+1993-10-17,2,Philadelphia Phillies,1993
+1993-10-19,1,Philadelphia Phillies,1993
+1993-10-20,0,Philadelphia Phillies,1993
+1993-10-21,1,Philadelphia Phillies,1993
+1993-10-23,0,Philadelphia Phillies,1993
+1995-10-03,-1,Boston Red Sox,1995
+1995-10-04,-2,Boston Red Sox,1995
+1995-10-06,-3,Boston Red Sox,1995
+1995-10-03,-1,Seattle Mariners,1995
+1995-10-04,-2,Seattle Mariners,1995
+1995-10-06,-1,Seattle Mariners,1995
+1995-10-07,0,Seattle Mariners,1995
+1995-10-08,1,Seattle Mariners,1995
+1995-10-10,2,Seattle Mariners,1995
+1995-10-11,1,Seattle Mariners,1995
+1995-10-13,2,Seattle Mariners,1995
+1995-10-14,1,Seattle Mariners,1995
+1995-10-15,0,Seattle Mariners,1995
+1995-10-17,-1,Seattle Mariners,1995
+1995-10-03,1,Cincinnati Reds,1995
+1995-10-04,2,Cincinnati Reds,1995
+1995-10-06,3,Cincinnati Reds,1995
+1995-10-10,2,Cincinnati Reds,1995
+1995-10-11,1,Cincinnati Reds,1995
+1995-10-13,0,Cincinnati Reds,1995
+1995-10-14,-1,Cincinnati Reds,1995
+1995-10-03,-1,Los Angeles Dodgers,1995
+1995-10-04,-2,Los Angeles Dodgers,1995
+1995-10-06,-3,Los Angeles Dodgers,1995
+1995-10-03,1,Atlanta Braves,1995
+1995-10-04,2,Atlanta Braves,1995
+1995-10-06,1,Atlanta Braves,1995
+1995-10-07,2,Atlanta Braves,1995
+1995-10-10,3,Atlanta Braves,1995
+1995-10-11,4,Atlanta Braves,1995
+1995-10-13,5,Atlanta Braves,1995
+1995-10-14,6,Atlanta Braves,1995
+1995-10-21,7,Atlanta Braves,1995
+1995-10-22,8,Atlanta Braves,1995
+1995-10-24,7,Atlanta Braves,1995
+1995-10-25,8,Atlanta Braves,1995
+1995-10-26,7,Atlanta Braves,1995
+1995-10-28,8,Atlanta Braves,1995
+1995-10-03,1,New York Yankees,1995
+1995-10-04,2,New York Yankees,1995
+1995-10-06,1,New York Yankees,1995
+1995-10-07,0,New York Yankees,1995
+1995-10-08,-1,New York Yankees,1995
+1995-10-03,1,Cleveland Indians,1995
+1995-10-04,2,Cleveland Indians,1995
+1995-10-06,3,Cleveland Indians,1995
+1995-10-10,2,Cleveland Indians,1995
+1995-10-11,3,Cleveland Indians,1995
+1995-10-13,2,Cleveland Indians,1995
+1995-10-14,3,Cleveland Indians,1995
+1995-10-15,4,Cleveland Indians,1995
+1995-10-17,5,Cleveland Indians,1995
+1995-10-21,4,Cleveland Indians,1995
+1995-10-22,3,Cleveland Indians,1995
+1995-10-24,4,Cleveland Indians,1995
+1995-10-25,3,Cleveland Indians,1995
+1995-10-26,4,Cleveland Indians,1995
+1995-10-28,3,Cleveland Indians,1995
+1995-10-03,-1,Colorado Rockies,1995
+1995-10-04,-2,Colorado Rockies,1995
+1995-10-06,-1,Colorado Rockies,1995
+1995-10-07,-2,Colorado Rockies,1995
+1996-10-01,1,Baltimore Orioles,1996
+1996-10-02,2,Baltimore Orioles,1996
+1996-10-04,1,Baltimore Orioles,1996
+1996-10-05,2,Baltimore Orioles,1996
+1996-10-09,1,Baltimore Orioles,1996
+1996-10-10,2,Baltimore Orioles,1996
+1996-10-11,1,Baltimore Orioles,1996
+1996-10-12,0,Baltimore Orioles,1996
+1996-10-13,-1,Baltimore Orioles,1996
+1996-10-02,-1,Los Angeles Dodgers,1996
+1996-10-03,-2,Los Angeles Dodgers,1996
+1996-10-05,-3,Los Angeles Dodgers,1996
+1996-10-01,1,St. Louis Cardinals,1996
+1996-10-03,2,St. Louis Cardinals,1996
+1996-10-05,3,St. Louis Cardinals,1996
+1996-10-09,2,St. Louis Cardinals,1996
+1996-10-10,3,St. Louis Cardinals,1996
+1996-10-12,4,St. Louis Cardinals,1996
+1996-10-13,5,St. Louis Cardinals,1996
+1996-10-14,4,St. Louis Cardinals,1996
+1996-10-16,3,St. Louis Cardinals,1996
+1996-10-17,2,St. Louis Cardinals,1996
+1996-10-01,1,Texas Rangers,1996
+1996-10-02,0,Texas Rangers,1996
+1996-10-04,-1,Texas Rangers,1996
+1996-10-05,-2,Texas Rangers,1996
+1996-10-02,1,Atlanta Braves,1996
+1996-10-03,2,Atlanta Braves,1996
+1996-10-05,3,Atlanta Braves,1996
+1996-10-09,4,Atlanta Braves,1996
+1996-10-10,3,Atlanta Braves,1996
+1996-10-12,2,Atlanta Braves,1996
+1996-10-13,1,Atlanta Braves,1996
+1996-10-14,2,Atlanta Braves,1996
+1996-10-16,3,Atlanta Braves,1996
+1996-10-17,4,Atlanta Braves,1996
+1996-10-20,5,Atlanta Braves,1996
+1996-10-21,6,Atlanta Braves,1996
+1996-10-22,5,Atlanta Braves,1996
+1996-10-23,4,Atlanta Braves,1996
+1996-10-24,3,Atlanta Braves,1996
+1996-10-26,2,Atlanta Braves,1996
+1996-10-01,-1,San Diego Padres,1996
+1996-10-03,-2,San Diego Padres,1996
+1996-10-05,-3,San Diego Padres,1996
+1996-10-01,-1,New York Yankees,1996
+1996-10-02,0,New York Yankees,1996
+1996-10-04,1,New York Yankees,1996
+1996-10-05,2,New York Yankees,1996
+1996-10-09,3,New York Yankees,1996
+1996-10-10,2,New York Yankees,1996
+1996-10-11,3,New York Yankees,1996
+1996-10-12,4,New York Yankees,1996
+1996-10-13,5,New York Yankees,1996
+1996-10-20,4,New York Yankees,1996
+1996-10-21,3,New York Yankees,1996
+1996-10-22,4,New York Yankees,1996
+1996-10-23,5,New York Yankees,1996
+1996-10-24,6,New York Yankees,1996
+1996-10-26,7,New York Yankees,1996
+1996-10-01,-1,Cleveland Indians,1996
+1996-10-02,-2,Cleveland Indians,1996
+1996-10-04,-1,Cleveland Indians,1996
+1996-10-05,-2,Cleveland Indians,1996
+1997-10-01,-1,Seattle Mariners,1997
+1997-10-02,-2,Seattle Mariners,1997
+1997-10-04,-1,Seattle Mariners,1997
+1997-10-05,-2,Seattle Mariners,1997
+1997-10-01,1,Baltimore Orioles,1997
+1997-10-02,2,Baltimore Orioles,1997
+1997-10-04,1,Baltimore Orioles,1997
+1997-10-05,2,Baltimore Orioles,1997
+1997-10-08,3,Baltimore Orioles,1997
+1997-10-09,2,Baltimore Orioles,1997
+1997-10-11,1,Baltimore Orioles,1997
+1997-10-12,0,Baltimore Orioles,1997
+1997-10-13,1,Baltimore Orioles,1997
+1997-10-15,0,Baltimore Orioles,1997
+1997-09-30,-1,San Francisco Giants,1997
+1997-10-01,-2,San Francisco Giants,1997
+1997-10-03,-3,San Francisco Giants,1997
+1997-09-30,1,Atlanta Braves,1997
+1997-10-01,2,Atlanta Braves,1997
+1997-10-03,3,Atlanta Braves,1997
+1997-10-07,2,Atlanta Braves,1997
+1997-10-08,3,Atlanta Braves,1997
+1997-10-10,2,Atlanta Braves,1997
+1997-10-11,3,Atlanta Braves,1997
+1997-10-12,2,Atlanta Braves,1997
+1997-10-14,1,Atlanta Braves,1997
+1997-09-30,1,New York Yankees,1997
+1997-10-02,0,New York Yankees,1997
+1997-10-04,1,New York Yankees,1997
+1997-10-05,0,New York Yankees,1997
+1997-10-06,-1,New York Yankees,1997
+1997-09-30,-1,Cleveland Indians,1997
+1997-10-02,0,Cleveland Indians,1997
+1997-10-04,-1,Cleveland Indians,1997
+1997-10-05,0,Cleveland Indians,1997
+1997-10-06,1,Cleveland Indians,1997
+1997-10-08,0,Cleveland Indians,1997
+1997-10-09,1,Cleveland Indians,1997
+1997-10-11,2,Cleveland Indians,1997
+1997-10-12,3,Cleveland Indians,1997
+1997-10-13,2,Cleveland Indians,1997
+1997-10-15,3,Cleveland Indians,1997
+1997-10-18,2,Cleveland Indians,1997
+1997-10-19,3,Cleveland Indians,1997
+1997-10-21,2,Cleveland Indians,1997
+1997-10-22,3,Cleveland Indians,1997
+1997-10-23,2,Cleveland Indians,1997
+1997-10-25,3,Cleveland Indians,1997
+1997-10-26,2,Cleveland Indians,1997
+1997-09-30,-1,Houston Astros,1997
+1997-10-01,-2,Houston Astros,1997
+1997-10-03,-3,Houston Astros,1997
+1997-09-30,1,Florida Marlins,1997
+1997-10-01,2,Florida Marlins,1997
+1997-10-03,3,Florida Marlins,1997
+1997-10-07,4,Florida Marlins,1997
+1997-10-08,3,Florida Marlins,1997
+1997-10-10,4,Florida Marlins,1997
+1997-10-11,3,Florida Marlins,1997
+1997-10-12,4,Florida Marlins,1997
+1997-10-14,5,Florida Marlins,1997
+1997-10-18,6,Florida Marlins,1997
+1997-10-19,5,Florida Marlins,1997
+1997-10-21,6,Florida Marlins,1997
+1997-10-22,5,Florida Marlins,1997
+1997-10-23,6,Florida Marlins,1997
+1997-10-25,5,Florida Marlins,1997
+1997-10-26,6,Florida Marlins,1997
+1998-09-29,1,Boston Red Sox,1998
+1998-09-30,0,Boston Red Sox,1998
+1998-10-02,-1,Boston Red Sox,1998
+1998-10-03,-2,Boston Red Sox,1998
+1998-09-29,-1,Texas Rangers,1998
+1998-09-30,-2,Texas Rangers,1998
+1998-10-02,-3,Texas Rangers,1998
+1998-09-30,-1,Chicago Cubs,1998
+1998-10-01,-2,Chicago Cubs,1998
+1998-10-03,-3,Chicago Cubs,1998
+1998-09-30,1,Atlanta Braves,1998
+1998-10-01,2,Atlanta Braves,1998
+1998-10-03,3,Atlanta Braves,1998
+1998-10-07,2,Atlanta Braves,1998
+1998-10-08,1,Atlanta Braves,1998
+1998-10-10,0,Atlanta Braves,1998
+1998-10-11,1,Atlanta Braves,1998
+1998-10-12,2,Atlanta Braves,1998
+1998-10-14,1,Atlanta Braves,1998
+1998-09-29,1,San Diego Padres,1998
+1998-10-01,0,San Diego Padres,1998
+1998-10-03,1,San Diego Padres,1998
+1998-10-04,2,San Diego Padres,1998
+1998-10-07,3,San Diego Padres,1998
+1998-10-08,4,San Diego Padres,1998
+1998-10-10,5,San Diego Padres,1998
+1998-10-11,4,San Diego Padres,1998
+1998-10-12,3,San Diego Padres,1998
+1998-10-14,4,San Diego Padres,1998
+1998-10-17,3,San Diego Padres,1998
+1998-10-18,2,San Diego Padres,1998
+1998-10-20,1,San Diego Padres,1998
+1998-10-21,0,San Diego Padres,1998
+1998-09-29,1,New York Yankees,1998
+1998-09-30,2,New York Yankees,1998
+1998-10-02,3,New York Yankees,1998
+1998-10-06,4,New York Yankees,1998
+1998-10-07,3,New York Yankees,1998
+1998-10-09,2,New York Yankees,1998
+1998-10-10,3,New York Yankees,1998
+1998-10-11,4,New York Yankees,1998
+1998-10-13,5,New York Yankees,1998
+1998-10-17,6,New York Yankees,1998
+1998-10-18,7,New York Yankees,1998
+1998-10-20,8,New York Yankees,1998
+1998-10-21,9,New York Yankees,1998
+1998-09-29,-1,Cleveland Indians,1998
+1998-09-30,0,Cleveland Indians,1998
+1998-10-02,1,Cleveland Indians,1998
+1998-10-03,2,Cleveland Indians,1998
+1998-10-06,1,Cleveland Indians,1998
+1998-10-07,2,Cleveland Indians,1998
+1998-10-09,3,Cleveland Indians,1998
+1998-10-10,2,Cleveland Indians,1998
+1998-10-11,1,Cleveland Indians,1998
+1998-10-13,0,Cleveland Indians,1998
+1998-09-29,-1,Houston Astros,1998
+1998-10-01,0,Houston Astros,1998
+1998-10-03,-1,Houston Astros,1998
+1998-10-04,-2,Houston Astros,1998
+1999-10-06,-1,Boston Red Sox,1999
+1999-10-07,-2,Boston Red Sox,1999
+1999-10-09,-1,Boston Red Sox,1999
+1999-10-10,0,Boston Red Sox,1999
+1999-10-11,1,Boston Red Sox,1999
+1999-10-13,0,Boston Red Sox,1999
+1999-10-14,-1,Boston Red Sox,1999
+1999-10-16,0,Boston Red Sox,1999
+1999-10-17,-1,Boston Red Sox,1999
+1999-10-18,-2,Boston Red Sox,1999
+1999-10-05,-1,Texas Rangers,1999
+1999-10-07,-2,Texas Rangers,1999
+1999-10-09,-3,Texas Rangers,1999
+1999-10-05,-1,Atlanta Braves,1999
+1999-10-06,0,Atlanta Braves,1999
+1999-10-08,1,Atlanta Braves,1999
+1999-10-09,2,Atlanta Braves,1999
+1999-10-12,3,Atlanta Braves,1999
+1999-10-13,4,Atlanta Braves,1999
+1999-10-15,5,Atlanta Braves,1999
+1999-10-16,4,Atlanta Braves,1999
+1999-10-17,3,Atlanta Braves,1999
+1999-10-19,4,Atlanta Braves,1999
+1999-10-23,3,Atlanta Braves,1999
+1999-10-24,2,Atlanta Braves,1999
+1999-10-26,1,Atlanta Braves,1999
+1999-10-27,0,Atlanta Braves,1999
+1999-10-05,1,New York Mets,1999
+1999-10-06,0,New York Mets,1999
+1999-10-08,1,New York Mets,1999
+1999-10-09,2,New York Mets,1999
+1999-10-12,1,New York Mets,1999
+1999-10-13,0,New York Mets,1999
+1999-10-15,-1,New York Mets,1999
+1999-10-16,0,New York Mets,1999
+1999-10-17,1,New York Mets,1999
+1999-10-19,0,New York Mets,1999
+1999-10-05,1,New York Yankees,1999
+1999-10-07,2,New York Yankees,1999
+1999-10-09,3,New York Yankees,1999
+1999-10-13,4,New York Yankees,1999
+1999-10-14,5,New York Yankees,1999
+1999-10-16,4,New York Yankees,1999
+1999-10-17,5,New York Yankees,1999
+1999-10-18,6,New York Yankees,1999
+1999-10-23,7,New York Yankees,1999
+1999-10-24,8,New York Yankees,1999
+1999-10-26,9,New York Yankees,1999
+1999-10-27,10,New York Yankees,1999
+1999-10-06,1,Cleveland Indians,1999
+1999-10-07,2,Cleveland Indians,1999
+1999-10-09,1,Cleveland Indians,1999
+1999-10-10,0,Cleveland Indians,1999
+1999-10-11,-1,Cleveland Indians,1999
+1999-10-05,1,Houston Astros,1999
+1999-10-06,0,Houston Astros,1999
+1999-10-08,-1,Houston Astros,1999
+1999-10-09,-2,Houston Astros,1999
+1999-10-05,-1,Arizona D'Backs,1999
+1999-10-06,0,Arizona D'Backs,1999
+1999-10-08,-1,Arizona D'Backs,1999
+1999-10-09,-2,Arizona D'Backs,1999
+2000-10-03,1,Seattle Mariners,2000
+2000-10-04,2,Seattle Mariners,2000
+2000-10-06,3,Seattle Mariners,2000
+2000-10-10,4,Seattle Mariners,2000
+2000-10-11,3,Seattle Mariners,2000
+2000-10-13,2,Seattle Mariners,2000
+2000-10-14,1,Seattle Mariners,2000
+2000-10-15,2,Seattle Mariners,2000
+2000-10-17,1,Seattle Mariners,2000
+2000-10-03,-1,Chicago White Sox,2000
+2000-10-04,-2,Chicago White Sox,2000
+2000-10-06,-3,Chicago White Sox,2000
+2000-10-03,1,Oakland Athletics,2000
+2000-10-04,0,Oakland Athletics,2000
+2000-10-06,-1,Oakland Athletics,2000
+2000-10-07,0,Oakland Athletics,2000
+2000-10-08,-1,Oakland Athletics,2000
+2000-10-03,1,St. Louis Cardinals,2000
+2000-10-05,2,St. Louis Cardinals,2000
+2000-10-07,3,St. Louis Cardinals,2000
+2000-10-11,2,St. Louis Cardinals,2000
+2000-10-12,1,St. Louis Cardinals,2000
+2000-10-14,2,St. Louis Cardinals,2000
+2000-10-15,1,St. Louis Cardinals,2000
+2000-10-16,0,St. Louis Cardinals,2000
+2000-10-04,1,San Francisco Giants,2000
+2000-10-05,0,San Francisco Giants,2000
+2000-10-07,-1,San Francisco Giants,2000
+2000-10-08,-2,San Francisco Giants,2000
+2000-10-03,-1,Atlanta Braves,2000
+2000-10-05,-2,Atlanta Braves,2000
+2000-10-07,-3,Atlanta Braves,2000
+2000-10-04,-1,New York Mets,2000
+2000-10-05,0,New York Mets,2000
+2000-10-07,1,New York Mets,2000
+2000-10-08,2,New York Mets,2000
+2000-10-11,3,New York Mets,2000
+2000-10-12,4,New York Mets,2000
+2000-10-14,3,New York Mets,2000
+2000-10-15,4,New York Mets,2000
+2000-10-16,5,New York Mets,2000
+2000-10-21,4,New York Mets,2000
+2000-10-22,3,New York Mets,2000
+2000-10-24,4,New York Mets,2000
+2000-10-25,3,New York Mets,2000
+2000-10-26,2,New York Mets,2000
+2000-10-03,-1,New York Yankees,2000
+2000-10-04,0,New York Yankees,2000
+2000-10-06,1,New York Yankees,2000
+2000-10-07,0,New York Yankees,2000
+2000-10-08,1,New York Yankees,2000
+2000-10-10,0,New York Yankees,2000
+2000-10-11,1,New York Yankees,2000
+2000-10-13,2,New York Yankees,2000
+2000-10-14,3,New York Yankees,2000
+2000-10-15,2,New York Yankees,2000
+2000-10-17,3,New York Yankees,2000
+2000-10-21,4,New York Yankees,2000
+2000-10-22,5,New York Yankees,2000
+2000-10-24,4,New York Yankees,2000
+2000-10-25,5,New York Yankees,2000
+2000-10-26,6,New York Yankees,2000
+2001-10-09,-1,Seattle Mariners,2001
+2001-10-11,0,Seattle Mariners,2001
+2001-10-13,-1,Seattle Mariners,2001
+2001-10-14,0,Seattle Mariners,2001
+2001-10-15,1,Seattle Mariners,2001
+2001-10-17,0,Seattle Mariners,2001
+2001-10-18,-1,Seattle Mariners,2001
+2001-10-20,0,Seattle Mariners,2001
+2001-10-21,-1,Seattle Mariners,2001
+2001-10-22,-2,Seattle Mariners,2001
+2001-10-10,1,Oakland Athletics,2001
+2001-10-11,2,Oakland Athletics,2001
+2001-10-13,1,Oakland Athletics,2001
+2001-10-14,0,Oakland Athletics,2001
+2001-10-15,-1,Oakland Athletics,2001
+2001-10-09,-1,St. Louis Cardinals,2001
+2001-10-10,0,St. Louis Cardinals,2001
+2001-10-12,-1,St. Louis Cardinals,2001
+2001-10-13,0,St. Louis Cardinals,2001
+2001-10-14,-1,St. Louis Cardinals,2001
+2001-10-09,1,Atlanta Braves,2001
+2001-10-10,2,Atlanta Braves,2001
+2001-10-12,3,Atlanta Braves,2001
+2001-10-16,2,Atlanta Braves,2001
+2001-10-17,3,Atlanta Braves,2001
+2001-10-19,2,Atlanta Braves,2001
+2001-10-20,1,Atlanta Braves,2001
+2001-10-21,0,Atlanta Braves,2001
+2001-10-10,-1,New York Yankees,2001
+2001-10-11,-2,New York Yankees,2001
+2001-10-13,-1,New York Yankees,2001
+2001-10-14,0,New York Yankees,2001
+2001-10-15,1,New York Yankees,2001
+2001-10-17,2,New York Yankees,2001
+2001-10-18,3,New York Yankees,2001
+2001-10-20,2,New York Yankees,2001
+2001-10-21,3,New York Yankees,2001
+2001-10-22,4,New York Yankees,2001
+2001-10-27,3,New York Yankees,2001
+2001-10-28,2,New York Yankees,2001
+2001-10-30,3,New York Yankees,2001
+2001-10-31,4,New York Yankees,2001
+2001-11-01,5,New York Yankees,2001
+2001-11-03,4,New York Yankees,2001
+2001-11-04,3,New York Yankees,2001
+2001-10-09,1,Cleveland Indians,2001
+2001-10-11,0,Cleveland Indians,2001
+2001-10-13,1,Cleveland Indians,2001
+2001-10-14,0,Cleveland Indians,2001
+2001-10-15,-1,Cleveland Indians,2001
+2001-10-09,-1,Houston Astros,2001
+2001-10-10,-2,Houston Astros,2001
+2001-10-12,-3,Houston Astros,2001
+2001-10-09,1,Arizona D'Backs,2001
+2001-10-10,0,Arizona D'Backs,2001
+2001-10-12,1,Arizona D'Backs,2001
+2001-10-13,0,Arizona D'Backs,2001
+2001-10-14,1,Arizona D'Backs,2001
+2001-10-16,2,Arizona D'Backs,2001
+2001-10-17,1,Arizona D'Backs,2001
+2001-10-19,2,Arizona D'Backs,2001
+2001-10-20,3,Arizona D'Backs,2001
+2001-10-21,4,Arizona D'Backs,2001
+2001-10-27,5,Arizona D'Backs,2001
+2001-10-28,6,Arizona D'Backs,2001
+2001-10-30,5,Arizona D'Backs,2001
+2001-10-31,4,Arizona D'Backs,2001
+2001-11-01,3,Arizona D'Backs,2001
+2001-11-03,4,Arizona D'Backs,2001
+2001-11-04,5,Arizona D'Backs,2001
+2002-10-01,-1,Oakland Athletics,2002
+2002-10-02,0,Oakland Athletics,2002
+2002-10-04,1,Oakland Athletics,2002
+2002-10-05,0,Oakland Athletics,2002
+2002-10-06,-1,Oakland Athletics,2002
+2002-10-01,1,St. Louis Cardinals,2002
+2002-10-03,2,St. Louis Cardinals,2002
+2002-10-05,3,St. Louis Cardinals,2002
+2002-10-09,2,St. Louis Cardinals,2002
+2002-10-10,1,St. Louis Cardinals,2002
+2002-10-12,2,St. Louis Cardinals,2002
+2002-10-13,1,St. Louis Cardinals,2002
+2002-10-14,0,St. Louis Cardinals,2002
+2002-10-02,1,San Francisco Giants,2002
+2002-10-03,0,San Francisco Giants,2002
+2002-10-05,-1,San Francisco Giants,2002
+2002-10-06,0,San Francisco Giants,2002
+2002-10-07,1,San Francisco Giants,2002
+2002-10-09,2,San Francisco Giants,2002
+2002-10-10,3,San Francisco Giants,2002
+2002-10-12,2,San Francisco Giants,2002
+2002-10-13,3,San Francisco Giants,2002
+2002-10-14,4,San Francisco Giants,2002
+2002-10-19,5,San Francisco Giants,2002
+2002-10-20,4,San Francisco Giants,2002
+2002-10-22,3,San Francisco Giants,2002
+2002-10-23,4,San Francisco Giants,2002
+2002-10-24,5,San Francisco Giants,2002
+2002-10-26,4,San Francisco Giants,2002
+2002-10-27,3,San Francisco Giants,2002
+2002-10-02,-1,Atlanta Braves,2002
+2002-10-03,0,Atlanta Braves,2002
+2002-10-05,1,Atlanta Braves,2002
+2002-10-06,0,Atlanta Braves,2002
+2002-10-07,-1,Atlanta Braves,2002
+2002-10-01,1,Minnesota Twins,2002
+2002-10-02,0,Minnesota Twins,2002
+2002-10-04,-1,Minnesota Twins,2002
+2002-10-05,0,Minnesota Twins,2002
+2002-10-06,1,Minnesota Twins,2002
+2002-10-08,2,Minnesota Twins,2002
+2002-10-09,1,Minnesota Twins,2002
+2002-10-11,0,Minnesota Twins,2002
+2002-10-12,-1,Minnesota Twins,2002
+2002-10-13,-2,Minnesota Twins,2002
+2002-10-01,1,New York Yankees,2002
+2002-10-02,0,New York Yankees,2002
+2002-10-04,-1,New York Yankees,2002
+2002-10-05,-2,New York Yankees,2002
+2002-10-01,-1,Anaheim Angels,2002
+2002-10-02,0,Anaheim Angels,2002
+2002-10-04,1,Anaheim Angels,2002
+2002-10-05,2,Anaheim Angels,2002
+2002-10-08,1,Anaheim Angels,2002
+2002-10-09,2,Anaheim Angels,2002
+2002-10-11,3,Anaheim Angels,2002
+2002-10-12,4,Anaheim Angels,2002
+2002-10-13,5,Anaheim Angels,2002
+2002-10-19,4,Anaheim Angels,2002
+2002-10-20,5,Anaheim Angels,2002
+2002-10-22,6,Anaheim Angels,2002
+2002-10-23,5,Anaheim Angels,2002
+2002-10-24,4,Anaheim Angels,2002
+2002-10-26,5,Anaheim Angels,2002
+2002-10-27,6,Anaheim Angels,2002
+2002-10-01,-1,Arizona D'Backs,2002
+2002-10-03,-2,Arizona D'Backs,2002
+2002-10-05,-3,Arizona D'Backs,2002
+2003-10-01,-1,Boston Red Sox,2003
+2003-10-02,-2,Boston Red Sox,2003
+2003-10-04,-1,Boston Red Sox,2003
+2003-10-05,0,Boston Red Sox,2003
+2003-10-06,1,Boston Red Sox,2003
+2003-10-08,2,Boston Red Sox,2003
+2003-10-09,1,Boston Red Sox,2003
+2003-10-11,0,Boston Red Sox,2003
+2003-10-13,1,Boston Red Sox,2003
+2003-10-14,0,Boston Red Sox,2003
+2003-10-15,1,Boston Red Sox,2003
+2003-10-16,0,Boston Red Sox,2003
+2003-10-01,1,Oakland Athletics,2003
+2003-10-02,2,Oakland Athletics,2003
+2003-10-04,1,Oakland Athletics,2003
+2003-10-05,0,Oakland Athletics,2003
+2003-10-06,-1,Oakland Athletics,2003
+2003-09-30,1,Chicago Cubs,2003
+2003-10-01,0,Chicago Cubs,2003
+2003-10-03,1,Chicago Cubs,2003
+2003-10-04,0,Chicago Cubs,2003
+2003-10-05,1,Chicago Cubs,2003
+2003-10-07,0,Chicago Cubs,2003
+2003-10-08,1,Chicago Cubs,2003
+2003-10-10,2,Chicago Cubs,2003
+2003-10-11,3,Chicago Cubs,2003
+2003-10-12,2,Chicago Cubs,2003
+2003-10-14,1,Chicago Cubs,2003
+2003-10-15,0,Chicago Cubs,2003
+2003-09-30,1,San Francisco Giants,2003
+2003-10-01,0,San Francisco Giants,2003
+2003-10-03,-1,San Francisco Giants,2003
+2003-10-04,-2,San Francisco Giants,2003
+2003-09-30,-1,Atlanta Braves,2003
+2003-10-01,0,Atlanta Braves,2003
+2003-10-03,-1,Atlanta Braves,2003
+2003-10-04,0,Atlanta Braves,2003
+2003-10-05,-1,Atlanta Braves,2003
+2003-09-30,1,Minnesota Twins,2003
+2003-10-02,0,Minnesota Twins,2003
+2003-10-04,-1,Minnesota Twins,2003
+2003-10-05,-2,Minnesota Twins,2003
+2003-09-30,-1,New York Yankees,2003
+2003-10-02,0,New York Yankees,2003
+2003-10-04,1,New York Yankees,2003
+2003-10-05,2,New York Yankees,2003
+2003-10-08,1,New York Yankees,2003
+2003-10-09,2,New York Yankees,2003
+2003-10-11,3,New York Yankees,2003
+2003-10-13,2,New York Yankees,2003
+2003-10-14,3,New York Yankees,2003
+2003-10-15,2,New York Yankees,2003
+2003-10-16,3,New York Yankees,2003
+2003-10-18,2,New York Yankees,2003
+2003-10-19,3,New York Yankees,2003
+2003-10-21,4,New York Yankees,2003
+2003-10-22,3,New York Yankees,2003
+2003-10-23,2,New York Yankees,2003
+2003-10-25,1,New York Yankees,2003
+2003-09-30,-1,Florida Marlins,2003
+2003-10-01,0,Florida Marlins,2003
+2003-10-03,1,Florida Marlins,2003
+2003-10-04,2,Florida Marlins,2003
+2003-10-07,3,Florida Marlins,2003
+2003-10-08,2,Florida Marlins,2003
+2003-10-10,1,Florida Marlins,2003
+2003-10-11,0,Florida Marlins,2003
+2003-10-12,1,Florida Marlins,2003
+2003-10-14,2,Florida Marlins,2003
+2003-10-15,3,Florida Marlins,2003
+2003-10-18,4,Florida Marlins,2003
+2003-10-19,3,Florida Marlins,2003
+2003-10-21,2,Florida Marlins,2003
+2003-10-22,3,Florida Marlins,2003
+2003-10-23,4,Florida Marlins,2003
+2003-10-25,5,Florida Marlins,2003
+2004-10-05,1,Boston Red Sox,2004
+2004-10-06,2,Boston Red Sox,2004
+2004-10-08,3,Boston Red Sox,2004
+2004-10-12,2,Boston Red Sox,2004
+2004-10-13,1,Boston Red Sox,2004
+2004-10-16,0,Boston Red Sox,2004
+2004-10-17,1,Boston Red Sox,2004
+2004-10-18,2,Boston Red Sox,2004
+2004-10-19,3,Boston Red Sox,2004
+2004-10-20,4,Boston Red Sox,2004
+2004-10-23,5,Boston Red Sox,2004
+2004-10-24,6,Boston Red Sox,2004
+2004-10-26,7,Boston Red Sox,2004
+2004-10-27,8,Boston Red Sox,2004
+2004-10-05,-1,Los Angeles Dodgers,2004
+2004-10-07,-2,Los Angeles Dodgers,2004
+2004-10-09,-1,Los Angeles Dodgers,2004
+2004-10-10,-2,Los Angeles Dodgers,2004
+2004-10-05,1,St. Louis Cardinals,2004
+2004-10-07,2,St. Louis Cardinals,2004
+2004-10-09,1,St. Louis Cardinals,2004
+2004-10-10,2,St. Louis Cardinals,2004
+2004-10-13,3,St. Louis Cardinals,2004
+2004-10-14,4,St. Louis Cardinals,2004
+2004-10-16,3,St. Louis Cardinals,2004
+2004-10-17,2,St. Louis Cardinals,2004
+2004-10-18,1,St. Louis Cardinals,2004
+2004-10-20,2,St. Louis Cardinals,2004
+2004-10-21,3,St. Louis Cardinals,2004
+2004-10-23,2,St. Louis Cardinals,2004
+2004-10-24,1,St. Louis Cardinals,2004
+2004-10-26,0,St. Louis Cardinals,2004
+2004-10-27,-1,St. Louis Cardinals,2004
+2004-10-06,-1,Atlanta Braves,2004
+2004-10-07,0,Atlanta Braves,2004
+2004-10-09,-1,Atlanta Braves,2004
+2004-10-10,0,Atlanta Braves,2004
+2004-10-11,-1,Atlanta Braves,2004
+2004-10-05,1,Minnesota Twins,2004
+2004-10-06,0,Minnesota Twins,2004
+2004-10-08,-1,Minnesota Twins,2004
+2004-10-09,-2,Minnesota Twins,2004
+2004-10-05,-1,New York Yankees,2004
+2004-10-06,0,New York Yankees,2004
+2004-10-08,1,New York Yankees,2004
+2004-10-09,2,New York Yankees,2004
+2004-10-12,3,New York Yankees,2004
+2004-10-13,4,New York Yankees,2004
+2004-10-16,5,New York Yankees,2004
+2004-10-17,4,New York Yankees,2004
+2004-10-18,3,New York Yankees,2004
+2004-10-19,2,New York Yankees,2004
+2004-10-20,1,New York Yankees,2004
+2004-10-06,1,Houston Astros,2004
+2004-10-07,0,Houston Astros,2004
+2004-10-09,1,Houston Astros,2004
+2004-10-10,0,Houston Astros,2004
+2004-10-11,1,Houston Astros,2004
+2004-10-13,0,Houston Astros,2004
+2004-10-14,-1,Houston Astros,2004
+2004-10-16,0,Houston Astros,2004
+2004-10-17,1,Houston Astros,2004
+2004-10-18,2,Houston Astros,2004
+2004-10-20,1,Houston Astros,2004
+2004-10-21,0,Houston Astros,2004
+2004-10-05,-1,Anaheim Angels,2004
+2004-10-06,-2,Anaheim Angels,2004
+2004-10-08,-3,Anaheim Angels,2004
+2005-10-04,-1,Boston Red Sox,2005
+2005-10-05,-2,Boston Red Sox,2005
+2005-10-07,-3,Boston Red Sox,2005
+2005-10-04,1,Chicago White Sox,2005
+2005-10-05,2,Chicago White Sox,2005
+2005-10-07,3,Chicago White Sox,2005
+2005-10-11,2,Chicago White Sox,2005
+2005-10-12,3,Chicago White Sox,2005
+2005-10-14,4,Chicago White Sox,2005
+2005-10-15,5,Chicago White Sox,2005
+2005-10-16,6,Chicago White Sox,2005
+2005-10-22,7,Chicago White Sox,2005
+2005-10-23,8,Chicago White Sox,2005
+2005-10-25,9,Chicago White Sox,2005
+2005-10-26,10,Chicago White Sox,2005
+2005-10-04,1,St. Louis Cardinals,2005
+2005-10-06,2,St. Louis Cardinals,2005
+2005-10-08,3,St. Louis Cardinals,2005
+2005-10-12,4,St. Louis Cardinals,2005
+2005-10-13,3,St. Louis Cardinals,2005
+2005-10-15,2,St. Louis Cardinals,2005
+2005-10-16,1,St. Louis Cardinals,2005
+2005-10-17,2,St. Louis Cardinals,2005
+2005-10-19,1,St. Louis Cardinals,2005
+2005-10-05,-1,Atlanta Braves,2005
+2005-10-06,0,Atlanta Braves,2005
+2005-10-08,-1,Atlanta Braves,2005
+2005-10-09,-2,Atlanta Braves,2005
+2005-10-04,-1,San Diego Padres,2005
+2005-10-06,-2,San Diego Padres,2005
+2005-10-08,-3,San Diego Padres,2005
+2005-10-04,1,New York Yankees,2005
+2005-10-05,0,New York Yankees,2005
+2005-10-07,-1,New York Yankees,2005
+2005-10-09,0,New York Yankees,2005
+2005-10-10,-1,New York Yankees,2005
+2005-10-05,1,Houston Astros,2005
+2005-10-06,0,Houston Astros,2005
+2005-10-08,1,Houston Astros,2005
+2005-10-09,2,Houston Astros,2005
+2005-10-12,1,Houston Astros,2005
+2005-10-13,2,Houston Astros,2005
+2005-10-15,3,Houston Astros,2005
+2005-10-16,4,Houston Astros,2005
+2005-10-17,3,Houston Astros,2005
+2005-10-19,4,Houston Astros,2005
+2005-10-22,3,Houston Astros,2005
+2005-10-23,2,Houston Astros,2005
+2005-10-25,1,Houston Astros,2005
+2005-10-26,0,Houston Astros,2005
+2005-10-04,-1,LA Angels of Anaheim,2005
+2005-10-05,0,LA Angels of Anaheim,2005
+2005-10-07,1,LA Angels of Anaheim,2005
+2005-10-09,0,LA Angels of Anaheim,2005
+2005-10-10,1,LA Angels of Anaheim,2005
+2005-10-11,2,LA Angels of Anaheim,2005
+2005-10-12,1,LA Angels of Anaheim,2005
+2005-10-14,0,LA Angels of Anaheim,2005
+2005-10-15,-1,LA Angels of Anaheim,2005
+2005-10-16,-2,LA Angels of Anaheim,2005
+2006-10-04,-1,Los Angeles Dodgers,2006
+2006-10-05,-2,Los Angeles Dodgers,2006
+2006-10-07,-3,Los Angeles Dodgers,2006
+2006-10-03,1,Oakland Athletics,2006
+2006-10-04,2,Oakland Athletics,2006
+2006-10-06,3,Oakland Athletics,2006
+2006-10-10,2,Oakland Athletics,2006
+2006-10-11,1,Oakland Athletics,2006
+2006-10-13,0,Oakland Athletics,2006
+2006-10-14,-1,Oakland Athletics,2006
+2006-10-03,1,St. Louis Cardinals,2006
+2006-10-05,2,St. Louis Cardinals,2006
+2006-10-07,1,St. Louis Cardinals,2006
+2006-10-08,2,St. Louis Cardinals,2006
+2006-10-12,1,St. Louis Cardinals,2006
+2006-10-13,2,St. Louis Cardinals,2006
+2006-10-14,3,St. Louis Cardinals,2006
+2006-10-15,2,St. Louis Cardinals,2006
+2006-10-17,3,St. Louis Cardinals,2006
+2006-10-18,2,St. Louis Cardinals,2006
+2006-10-19,3,St. Louis Cardinals,2006
+2006-10-21,4,St. Louis Cardinals,2006
+2006-10-22,3,St. Louis Cardinals,2006
+2006-10-24,4,St. Louis Cardinals,2006
+2006-10-26,5,St. Louis Cardinals,2006
+2006-10-27,6,St. Louis Cardinals,2006
+2006-10-04,1,New York Mets,2006
+2006-10-05,2,New York Mets,2006
+2006-10-07,3,New York Mets,2006
+2006-10-12,4,New York Mets,2006
+2006-10-13,3,New York Mets,2006
+2006-10-14,2,New York Mets,2006
+2006-10-15,3,New York Mets,2006
+2006-10-17,2,New York Mets,2006
+2006-10-18,3,New York Mets,2006
+2006-10-19,2,New York Mets,2006
+2006-10-03,-1,Minnesota Twins,2006
+2006-10-04,-2,Minnesota Twins,2006
+2006-10-06,-3,Minnesota Twins,2006
+2006-10-03,-1,San Diego Padres,2006
+2006-10-05,-2,San Diego Padres,2006
+2006-10-07,-1,San Diego Padres,2006
+2006-10-08,-2,San Diego Padres,2006
+2006-10-03,-1,Detroit Tigers,2006
+2006-10-05,0,Detroit Tigers,2006
+2006-10-06,1,Detroit Tigers,2006
+2006-10-07,2,Detroit Tigers,2006
+2006-10-10,3,Detroit Tigers,2006
+2006-10-11,4,Detroit Tigers,2006
+2006-10-13,5,Detroit Tigers,2006
+2006-10-14,6,Detroit Tigers,2006
+2006-10-21,5,Detroit Tigers,2006
+2006-10-22,6,Detroit Tigers,2006
+2006-10-24,5,Detroit Tigers,2006
+2006-10-26,4,Detroit Tigers,2006
+2006-10-27,3,Detroit Tigers,2006
+2006-10-03,1,New York Yankees,2006
+2006-10-05,0,New York Yankees,2006
+2006-10-06,-1,New York Yankees,2006
+2006-10-07,-2,New York Yankees,2006
+2007-10-03,1,Boston Red Sox,2007
+2007-10-05,2,Boston Red Sox,2007
+2007-10-07,3,Boston Red Sox,2007
+2007-10-12,4,Boston Red Sox,2007
+2007-10-13,3,Boston Red Sox,2007
+2007-10-15,2,Boston Red Sox,2007
+2007-10-16,1,Boston Red Sox,2007
+2007-10-18,2,Boston Red Sox,2007
+2007-10-20,3,Boston Red Sox,2007
+2007-10-21,4,Boston Red Sox,2007
+2007-10-24,5,Boston Red Sox,2007
+2007-10-25,6,Boston Red Sox,2007
+2007-10-27,7,Boston Red Sox,2007
+2007-10-28,8,Boston Red Sox,2007
+2007-10-03,-1,Chicago Cubs,2007
+2007-10-04,-2,Chicago Cubs,2007
+2007-10-06,-3,Chicago Cubs,2007
+2007-10-03,-1,Philadelphia Phillies,2007
+2007-10-04,-2,Philadelphia Phillies,2007
+2007-10-06,-3,Philadelphia Phillies,2007
+2007-10-04,-1,New York Yankees,2007
+2007-10-05,-2,New York Yankees,2007
+2007-10-07,-1,New York Yankees,2007
+2007-10-08,-2,New York Yankees,2007
+2007-10-04,1,Cleveland Indians,2007
+2007-10-05,2,Cleveland Indians,2007
+2007-10-07,1,Cleveland Indians,2007
+2007-10-08,2,Cleveland Indians,2007
+2007-10-12,1,Cleveland Indians,2007
+2007-10-13,2,Cleveland Indians,2007
+2007-10-15,3,Cleveland Indians,2007
+2007-10-16,4,Cleveland Indians,2007
+2007-10-18,3,Cleveland Indians,2007
+2007-10-20,2,Cleveland Indians,2007
+2007-10-21,1,Cleveland Indians,2007
+2007-10-03,1,Colorado Rockies,2007
+2007-10-04,2,Colorado Rockies,2007
+2007-10-06,3,Colorado Rockies,2007
+2007-10-11,4,Colorado Rockies,2007
+2007-10-12,5,Colorado Rockies,2007
+2007-10-14,6,Colorado Rockies,2007
+2007-10-15,7,Colorado Rockies,2007
+2007-10-24,6,Colorado Rockies,2007
+2007-10-25,5,Colorado Rockies,2007
+2007-10-27,4,Colorado Rockies,2007
+2007-10-28,3,Colorado Rockies,2007
+2007-10-03,1,Arizona D'Backs,2007
+2007-10-04,2,Arizona D'Backs,2007
+2007-10-06,3,Arizona D'Backs,2007
+2007-10-11,2,Arizona D'Backs,2007
+2007-10-12,1,Arizona D'Backs,2007
+2007-10-14,0,Arizona D'Backs,2007
+2007-10-15,-1,Arizona D'Backs,2007
+2007-10-03,-1,LA Angels of Anaheim,2007
+2007-10-05,-2,LA Angels of Anaheim,2007
+2007-10-07,-3,LA Angels of Anaheim,2007
+2008-10-01,1,Boston Red Sox,2008
+2008-10-03,2,Boston Red Sox,2008
+2008-10-05,1,Boston Red Sox,2008
+2008-10-06,2,Boston Red Sox,2008
+2008-10-10,3,Boston Red Sox,2008
+2008-10-11,2,Boston Red Sox,2008
+2008-10-13,1,Boston Red Sox,2008
+2008-10-14,0,Boston Red Sox,2008
+2008-10-16,1,Boston Red Sox,2008
+2008-10-18,2,Boston Red Sox,2008
+2008-10-19,1,Boston Red Sox,2008
+2008-10-02,-1,Chicago White Sox,2008
+2008-10-03,-2,Chicago White Sox,2008
+2008-10-05,-1,Chicago White Sox,2008
+2008-10-06,-2,Chicago White Sox,2008
+2008-10-01,1,Los Angeles Dodgers,2008
+2008-10-02,2,Los Angeles Dodgers,2008
+2008-10-04,3,Los Angeles Dodgers,2008
+2008-10-09,2,Los Angeles Dodgers,2008
+2008-10-10,1,Los Angeles Dodgers,2008
+2008-10-12,2,Los Angeles Dodgers,2008
+2008-10-13,1,Los Angeles Dodgers,2008
+2008-10-15,0,Los Angeles Dodgers,2008
+2008-10-01,-1,Chicago Cubs,2008
+2008-10-02,-2,Chicago Cubs,2008
+2008-10-04,-3,Chicago Cubs,2008
+2008-10-01,1,Philadelphia Phillies,2008
+2008-10-02,2,Philadelphia Phillies,2008
+2008-10-04,1,Philadelphia Phillies,2008
+2008-10-05,2,Philadelphia Phillies,2008
+2008-10-09,3,Philadelphia Phillies,2008
+2008-10-10,4,Philadelphia Phillies,2008
+2008-10-12,3,Philadelphia Phillies,2008
+2008-10-13,4,Philadelphia Phillies,2008
+2008-10-15,5,Philadelphia Phillies,2008
+2008-10-22,6,Philadelphia Phillies,2008
+2008-10-23,5,Philadelphia Phillies,2008
+2008-10-25,6,Philadelphia Phillies,2008
+2008-10-26,7,Philadelphia Phillies,2008
+2008-10-27,8,Philadelphia Phillies,2008
+2008-10-01,-1,Milwaukee Brewers,2008
+2008-10-02,-2,Milwaukee Brewers,2008
+2008-10-04,-1,Milwaukee Brewers,2008
+2008-10-05,-2,Milwaukee Brewers,2008
+2008-10-01,-1,LA Angels of Anaheim,2008
+2008-10-03,-2,LA Angels of Anaheim,2008
+2008-10-05,-1,LA Angels of Anaheim,2008
+2008-10-06,-2,LA Angels of Anaheim,2008
+2008-10-02,1,Tampa Bay Rays,2008
+2008-10-03,2,Tampa Bay Rays,2008
+2008-10-05,1,Tampa Bay Rays,2008
+2008-10-06,2,Tampa Bay Rays,2008
+2008-10-10,1,Tampa Bay Rays,2008
+2008-10-11,2,Tampa Bay Rays,2008
+2008-10-13,3,Tampa Bay Rays,2008
+2008-10-14,4,Tampa Bay Rays,2008
+2008-10-16,3,Tampa Bay Rays,2008
+2008-10-18,2,Tampa Bay Rays,2008
+2008-10-19,3,Tampa Bay Rays,2008
+2008-10-22,2,Tampa Bay Rays,2008
+2008-10-23,3,Tampa Bay Rays,2008
+2008-10-25,2,Tampa Bay Rays,2008
+2008-10-26,1,Tampa Bay Rays,2008
+2008-10-27,0,Tampa Bay Rays,2008
+2009-10-08,-1,Boston Red Sox,2009
+2009-10-09,-2,Boston Red Sox,2009
+2009-10-11,-3,Boston Red Sox,2009
+2009-10-07,1,Los Angeles Dodgers,2009
+2009-10-08,2,Los Angeles Dodgers,2009
+2009-10-10,3,Los Angeles Dodgers,2009
+2009-10-15,2,Los Angeles Dodgers,2009
+2009-10-16,3,Los Angeles Dodgers,2009
+2009-10-18,2,Los Angeles Dodgers,2009
+2009-10-19,1,Los Angeles Dodgers,2009
+2009-10-21,0,Los Angeles Dodgers,2009
+2009-10-07,-1,St. Louis Cardinals,2009
+2009-10-08,-2,St. Louis Cardinals,2009
+2009-10-10,-3,St. Louis Cardinals,2009
+2009-10-07,-1,Minnesota Twins,2009
+2009-10-09,-2,Minnesota Twins,2009
+2009-10-11,-3,Minnesota Twins,2009
+2009-10-07,1,Philadelphia Phillies,2009
+2009-10-08,0,Philadelphia Phillies,2009
+2009-10-11,1,Philadelphia Phillies,2009
+2009-10-12,2,Philadelphia Phillies,2009
+2009-10-15,3,Philadelphia Phillies,2009
+2009-10-16,2,Philadelphia Phillies,2009
+2009-10-18,3,Philadelphia Phillies,2009
+2009-10-19,4,Philadelphia Phillies,2009
+2009-10-21,5,Philadelphia Phillies,2009
+2009-10-28,6,Philadelphia Phillies,2009
+2009-10-29,5,Philadelphia Phillies,2009
+2009-10-31,4,Philadelphia Phillies,2009
+2009-11-01,3,Philadelphia Phillies,2009
+2009-11-02,4,Philadelphia Phillies,2009
+2009-11-04,3,Philadelphia Phillies,2009
+2009-10-07,1,New York Yankees,2009
+2009-10-09,2,New York Yankees,2009
+2009-10-11,3,New York Yankees,2009
+2009-10-16,4,New York Yankees,2009
+2009-10-17,5,New York Yankees,2009
+2009-10-19,4,New York Yankees,2009
+2009-10-20,5,New York Yankees,2009
+2009-10-22,4,New York Yankees,2009
+2009-10-25,5,New York Yankees,2009
+2009-10-28,4,New York Yankees,2009
+2009-10-29,5,New York Yankees,2009
+2009-10-31,6,New York Yankees,2009
+2009-11-01,7,New York Yankees,2009
+2009-11-02,6,New York Yankees,2009
+2009-11-04,7,New York Yankees,2009
+2009-10-07,-1,Colorado Rockies,2009
+2009-10-08,0,Colorado Rockies,2009
+2009-10-11,-1,Colorado Rockies,2009
+2009-10-12,-2,Colorado Rockies,2009
+2009-10-08,1,LA Angels of Anaheim,2009
+2009-10-09,2,LA Angels of Anaheim,2009
+2009-10-11,3,LA Angels of Anaheim,2009
+2009-10-16,2,LA Angels of Anaheim,2009
+2009-10-17,1,LA Angels of Anaheim,2009
+2009-10-19,2,LA Angels of Anaheim,2009
+2009-10-20,1,LA Angels of Anaheim,2009
+2009-10-22,2,LA Angels of Anaheim,2009
+2009-10-25,1,LA Angels of Anaheim,2009
+2010-10-06,-1,Cincinnati Reds,2010
+2010-10-08,-2,Cincinnati Reds,2010
+2010-10-10,-3,Cincinnati Reds,2010
+2010-10-06,1,Texas Rangers,2010
+2010-10-07,2,Texas Rangers,2010
+2010-10-09,1,Texas Rangers,2010
+2010-10-10,0,Texas Rangers,2010
+2010-10-12,1,Texas Rangers,2010
+2010-10-15,0,Texas Rangers,2010
+2010-10-16,1,Texas Rangers,2010
+2010-10-18,2,Texas Rangers,2010
+2010-10-19,3,Texas Rangers,2010
+2010-10-20,2,Texas Rangers,2010
+2010-10-22,3,Texas Rangers,2010
+2010-10-27,2,Texas Rangers,2010
+2010-10-28,1,Texas Rangers,2010
+2010-10-30,2,Texas Rangers,2010
+2010-10-31,1,Texas Rangers,2010
+2010-11-01,0,Texas Rangers,2010
+2010-10-07,1,San Francisco Giants,2010
+2010-10-08,0,San Francisco Giants,2010
+2010-10-10,1,San Francisco Giants,2010
+2010-10-11,2,San Francisco Giants,2010
+2010-10-16,3,San Francisco Giants,2010
+2010-10-17,2,San Francisco Giants,2010
+2010-10-19,3,San Francisco Giants,2010
+2010-10-20,4,San Francisco Giants,2010
+2010-10-21,3,San Francisco Giants,2010
+2010-10-23,4,San Francisco Giants,2010
+2010-10-27,5,San Francisco Giants,2010
+2010-10-28,6,San Francisco Giants,2010
+2010-10-30,5,San Francisco Giants,2010
+2010-10-31,6,San Francisco Giants,2010
+2010-11-01,7,San Francisco Giants,2010
+2010-10-07,-1,Atlanta Braves,2010
+2010-10-08,0,Atlanta Braves,2010
+2010-10-10,-1,Atlanta Braves,2010
+2010-10-11,-2,Atlanta Braves,2010
+2010-10-06,-1,Minnesota Twins,2010
+2010-10-07,-2,Minnesota Twins,2010
+2010-10-09,-3,Minnesota Twins,2010
+2010-10-06,1,Philadelphia Phillies,2010
+2010-10-08,2,Philadelphia Phillies,2010
+2010-10-10,3,Philadelphia Phillies,2010
+2010-10-16,2,Philadelphia Phillies,2010
+2010-10-17,3,Philadelphia Phillies,2010
+2010-10-19,2,Philadelphia Phillies,2010
+2010-10-20,1,Philadelphia Phillies,2010
+2010-10-21,2,Philadelphia Phillies,2010
+2010-10-23,1,Philadelphia Phillies,2010
+2010-10-06,1,New York Yankees,2010
+2010-10-07,2,New York Yankees,2010
+2010-10-09,3,New York Yankees,2010
+2010-10-15,4,New York Yankees,2010
+2010-10-16,3,New York Yankees,2010
+2010-10-18,2,New York Yankees,2010
+2010-10-19,1,New York Yankees,2010
+2010-10-20,2,New York Yankees,2010
+2010-10-22,1,New York Yankees,2010
+2010-10-06,-1,Tampa Bay Rays,2010
+2010-10-07,-2,Tampa Bay Rays,2010
+2010-10-09,-1,Tampa Bay Rays,2010
+2010-10-10,0,Tampa Bay Rays,2010
+2010-10-12,-1,Tampa Bay Rays,2010
+2011-10-01,-1,St. Louis Cardinals,2011
+2011-10-02,0,St. Louis Cardinals,2011
+2011-10-04,-1,St. Louis Cardinals,2011
+2011-10-05,0,St. Louis Cardinals,2011
+2011-10-07,1,St. Louis Cardinals,2011
+2011-10-09,0,St. Louis Cardinals,2011
+2011-10-10,1,St. Louis Cardinals,2011
+2011-10-12,2,St. Louis Cardinals,2011
+2011-10-13,1,St. Louis Cardinals,2011
+2011-10-14,2,St. Louis Cardinals,2011
+2011-10-16,3,St. Louis Cardinals,2011
+2011-10-19,4,St. Louis Cardinals,2011
+2011-10-20,3,St. Louis Cardinals,2011
+2011-10-22,4,St. Louis Cardinals,2011
+2011-10-23,3,St. Louis Cardinals,2011
+2011-10-24,2,St. Louis Cardinals,2011
+2011-10-27,3,St. Louis Cardinals,2011
+2011-10-28,4,St. Louis Cardinals,2011
+2011-09-30,-1,Texas Rangers,2011
+2011-10-01,0,Texas Rangers,2011
+2011-10-03,1,Texas Rangers,2011
+2011-10-04,2,Texas Rangers,2011
+2011-10-08,3,Texas Rangers,2011
+2011-10-10,4,Texas Rangers,2011
+2011-10-11,3,Texas Rangers,2011
+2011-10-12,4,Texas Rangers,2011
+2011-10-13,3,Texas Rangers,2011
+2011-10-15,4,Texas Rangers,2011
+2011-10-19,3,Texas Rangers,2011
+2011-10-20,4,Texas Rangers,2011
+2011-10-22,3,Texas Rangers,2011
+2011-10-23,4,Texas Rangers,2011
+2011-10-24,5,Texas Rangers,2011
+2011-10-27,4,Texas Rangers,2011
+2011-10-28,3,Texas Rangers,2011
+2011-10-01,1,Philadelphia Phillies,2011
+2011-10-02,0,Philadelphia Phillies,2011
+2011-10-04,1,Philadelphia Phillies,2011
+2011-10-05,0,Philadelphia Phillies,2011
+2011-10-07,-1,Philadelphia Phillies,2011
+2011-09-30,-1,Detroit Tigers,2011
+2011-10-02,0,Detroit Tigers,2011
+2011-10-03,1,Detroit Tigers,2011
+2011-10-04,0,Detroit Tigers,2011
+2011-10-06,1,Detroit Tigers,2011
+2011-10-08,0,Detroit Tigers,2011
+2011-10-10,-1,Detroit Tigers,2011
+2011-10-11,0,Detroit Tigers,2011
+2011-10-12,-1,Detroit Tigers,2011
+2011-10-13,0,Detroit Tigers,2011
+2011-10-15,-1,Detroit Tigers,2011
+2011-09-30,1,New York Yankees,2011
+2011-10-02,0,New York Yankees,2011
+2011-10-03,-1,New York Yankees,2011
+2011-10-04,0,New York Yankees,2011
+2011-10-06,-1,New York Yankees,2011
+2011-10-01,1,Milwaukee Brewers,2011
+2011-10-02,2,Milwaukee Brewers,2011
+2011-10-04,1,Milwaukee Brewers,2011
+2011-10-05,0,Milwaukee Brewers,2011
+2011-10-07,1,Milwaukee Brewers,2011
+2011-10-09,2,Milwaukee Brewers,2011
+2011-10-10,1,Milwaukee Brewers,2011
+2011-10-12,0,Milwaukee Brewers,2011
+2011-10-13,1,Milwaukee Brewers,2011
+2011-10-14,0,Milwaukee Brewers,2011
+2011-10-16,-1,Milwaukee Brewers,2011
+2011-10-01,-1,Arizona D'Backs,2011
+2011-10-02,-2,Arizona D'Backs,2011
+2011-10-04,-1,Arizona D'Backs,2011
+2011-10-05,0,Arizona D'Backs,2011
+2011-10-07,-1,Arizona D'Backs,2011
+2011-09-30,1,Tampa Bay Rays,2011
+2011-10-01,0,Tampa Bay Rays,2011
+2011-10-03,-1,Tampa Bay Rays,2011
+2011-10-04,-2,Tampa Bay Rays,2011
+2012-10-06,1,Cincinnati Reds,2012
+2012-10-07,2,Cincinnati Reds,2012
+2012-10-09,1,Cincinnati Reds,2012
+2012-10-10,0,Cincinnati Reds,2012
+2012-10-11,-1,Cincinnati Reds,2012
+2012-10-05,1,Baltimore Orioles,2012
+2012-10-07,0,Baltimore Orioles,2012
+2012-10-08,1,Baltimore Orioles,2012
+2012-10-10,0,Baltimore Orioles,2012
+2012-10-11,1,Baltimore Orioles,2012
+2012-10-12,0,Baltimore Orioles,2012
+2012-10-06,-1,Oakland Athletics,2012
+2012-10-07,-2,Oakland Athletics,2012
+2012-10-09,-1,Oakland Athletics,2012
+2012-10-10,0,Oakland Athletics,2012
+2012-10-11,-1,Oakland Athletics,2012
+2012-10-05,1,St. Louis Cardinals,2012
+2012-10-07,0,St. Louis Cardinals,2012
+2012-10-08,1,St. Louis Cardinals,2012
+2012-10-10,2,St. Louis Cardinals,2012
+2012-10-11,1,St. Louis Cardinals,2012
+2012-10-12,2,St. Louis Cardinals,2012
+2012-10-14,3,St. Louis Cardinals,2012
+2012-10-15,2,St. Louis Cardinals,2012
+2012-10-17,3,St. Louis Cardinals,2012
+2012-10-18,4,St. Louis Cardinals,2012
+2012-10-19,3,St. Louis Cardinals,2012
+2012-10-21,2,St. Louis Cardinals,2012
+2012-10-22,1,St. Louis Cardinals,2012
+2012-10-05,-1,Texas Rangers,2012
+2012-10-06,-1,San Francisco Giants,2012
+2012-10-07,-2,San Francisco Giants,2012
+2012-10-09,-1,San Francisco Giants,2012
+2012-10-10,0,San Francisco Giants,2012
+2012-10-11,1,San Francisco Giants,2012
+2012-10-14,0,San Francisco Giants,2012
+2012-10-15,1,San Francisco Giants,2012
+2012-10-17,0,San Francisco Giants,2012
+2012-10-18,-1,San Francisco Giants,2012
+2012-10-19,0,San Francisco Giants,2012
+2012-10-21,1,San Francisco Giants,2012
+2012-10-22,2,San Francisco Giants,2012
+2012-10-24,3,San Francisco Giants,2012
+2012-10-25,4,San Francisco Giants,2012
+2012-10-27,5,San Francisco Giants,2012
+2012-10-28,6,San Francisco Giants,2012
+2012-10-05,-1,Atlanta Braves,2012
+2012-10-06,1,Detroit Tigers,2012
+2012-10-07,2,Detroit Tigers,2012
+2012-10-09,1,Detroit Tigers,2012
+2012-10-10,0,Detroit Tigers,2012
+2012-10-11,1,Detroit Tigers,2012
+2012-10-13,2,Detroit Tigers,2012
+2012-10-14,3,Detroit Tigers,2012
+2012-10-16,4,Detroit Tigers,2012
+2012-10-18,5,Detroit Tigers,2012
+2012-10-24,4,Detroit Tigers,2012
+2012-10-25,3,Detroit Tigers,2012
+2012-10-27,2,Detroit Tigers,2012
+2012-10-28,1,Detroit Tigers,2012
+2012-10-07,1,New York Yankees,2012
+2012-10-08,0,New York Yankees,2012
+2012-10-10,1,New York Yankees,2012
+2012-10-11,0,New York Yankees,2012
+2012-10-12,1,New York Yankees,2012
+2012-10-13,0,New York Yankees,2012
+2012-10-14,-1,New York Yankees,2012
+2012-10-16,-2,New York Yankees,2012
+2012-10-18,-3,New York Yankees,2012
+2012-10-07,1,Washington Nationals,2012
+2012-10-08,0,Washington Nationals,2012
+2012-10-10,-1,Washington Nationals,2012
+2012-10-11,0,Washington Nationals,2012
+2012-10-12,-1,Washington Nationals,2012
+2013-10-04,1,Boston Red Sox,2013
+2013-10-05,2,Boston Red Sox,2013
+2013-10-07,1,Boston Red Sox,2013
+2013-10-08,2,Boston Red Sox,2013
+2013-10-12,1,Boston Red Sox,2013
+2013-10-13,2,Boston Red Sox,2013
+2013-10-15,3,Boston Red Sox,2013
+2013-10-16,2,Boston Red Sox,2013
+2013-10-17,3,Boston Red Sox,2013
+2013-10-19,4,Boston Red Sox,2013
+2013-10-23,5,Boston Red Sox,2013
+2013-10-24,4,Boston Red Sox,2013
+2013-10-26,3,Boston Red Sox,2013
+2013-10-27,4,Boston Red Sox,2013
+2013-10-28,5,Boston Red Sox,2013
+2013-10-30,6,Boston Red Sox,2013
+2013-10-01,-1,Cincinnati Reds,2013
+2013-10-03,1,Los Angeles Dodgers,2013
+2013-10-04,0,Los Angeles Dodgers,2013
+2013-10-06,1,Los Angeles Dodgers,2013
+2013-10-07,2,Los Angeles Dodgers,2013
+2013-10-11,1,Los Angeles Dodgers,2013
+2013-10-12,0,Los Angeles Dodgers,2013
+2013-10-14,1,Los Angeles Dodgers,2013
+2013-10-15,0,Los Angeles Dodgers,2013
+2013-10-16,1,Los Angeles Dodgers,2013
+2013-10-18,0,Los Angeles Dodgers,2013
+2013-10-01,1,Pittsburgh Pirates,2013
+2013-10-03,0,Pittsburgh Pirates,2013
+2013-10-04,1,Pittsburgh Pirates,2013
+2013-10-06,2,Pittsburgh Pirates,2013
+2013-10-07,1,Pittsburgh Pirates,2013
+2013-10-09,0,Pittsburgh Pirates,2013
+2013-10-04,-1,Oakland Athletics,2013
+2013-10-05,0,Oakland Athletics,2013
+2013-10-07,1,Oakland Athletics,2013
+2013-10-08,0,Oakland Athletics,2013
+2013-10-10,-1,Oakland Athletics,2013
+2013-10-03,1,St. Louis Cardinals,2013
+2013-10-04,0,St. Louis Cardinals,2013
+2013-10-06,-1,St. Louis Cardinals,2013
+2013-10-07,0,St. Louis Cardinals,2013
+2013-10-09,1,St. Louis Cardinals,2013
+2013-10-11,2,St. Louis Cardinals,2013
+2013-10-12,3,St. Louis Cardinals,2013
+2013-10-14,2,St. Louis Cardinals,2013
+2013-10-15,3,St. Louis Cardinals,2013
+2013-10-16,2,St. Louis Cardinals,2013
+2013-10-18,3,St. Louis Cardinals,2013
+2013-10-23,2,St. Louis Cardinals,2013
+2013-10-24,3,St. Louis Cardinals,2013
+2013-10-26,4,St. Louis Cardinals,2013
+2013-10-27,3,St. Louis Cardinals,2013
+2013-10-28,2,St. Louis Cardinals,2013
+2013-10-30,1,St. Louis Cardinals,2013
+2013-10-03,-1,Atlanta Braves,2013
+2013-10-04,0,Atlanta Braves,2013
+2013-10-06,-1,Atlanta Braves,2013
+2013-10-07,-2,Atlanta Braves,2013
+2013-10-04,1,Detroit Tigers,2013
+2013-10-05,0,Detroit Tigers,2013
+2013-10-07,-1,Detroit Tigers,2013
+2013-10-08,0,Detroit Tigers,2013
+2013-10-10,1,Detroit Tigers,2013
+2013-10-12,2,Detroit Tigers,2013
+2013-10-13,1,Detroit Tigers,2013
+2013-10-15,0,Detroit Tigers,2013
+2013-10-16,1,Detroit Tigers,2013
+2013-10-17,0,Detroit Tigers,2013
+2013-10-19,-1,Detroit Tigers,2013
+2013-10-02,-1,Cleveland Indians,2013
+2013-10-02,1,Tampa Bay Rays,2013
+2013-10-04,0,Tampa Bay Rays,2013
+2013-10-05,-1,Tampa Bay Rays,2013
+2013-10-07,0,Tampa Bay Rays,2013
+2013-10-08,-1,Tampa Bay Rays,2013
+2014-10-02,1,Baltimore Orioles,2014
+2014-10-03,2,Baltimore Orioles,2014
+2014-10-05,3,Baltimore Orioles,2014
+2014-10-10,2,Baltimore Orioles,2014
+2014-10-11,1,Baltimore Orioles,2014
+2014-10-14,0,Baltimore Orioles,2014
+2014-10-15,-1,Baltimore Orioles,2014
+2014-10-03,-1,Los Angeles Dodgers,2014
+2014-10-04,0,Los Angeles Dodgers,2014
+2014-10-06,-1,Los Angeles Dodgers,2014
+2014-10-07,-2,Los Angeles Dodgers,2014
+2014-10-01,-1,Pittsburgh Pirates,2014
+2014-09-30,-1,Oakland Athletics,2014
+2014-10-03,1,St. Louis Cardinals,2014
+2014-10-04,0,St. Louis Cardinals,2014
+2014-10-06,1,St. Louis Cardinals,2014
+2014-10-07,2,St. Louis Cardinals,2014
+2014-10-11,1,St. Louis Cardinals,2014
+2014-10-12,2,St. Louis Cardinals,2014
+2014-10-14,1,St. Louis Cardinals,2014
+2014-10-15,0,St. Louis Cardinals,2014
+2014-10-16,-1,St. Louis Cardinals,2014
+2014-10-01,1,San Francisco Giants,2014
+2014-10-03,2,San Francisco Giants,2014
+2014-10-04,3,San Francisco Giants,2014
+2014-10-06,2,San Francisco Giants,2014
+2014-10-07,3,San Francisco Giants,2014
+2014-10-11,4,San Francisco Giants,2014
+2014-10-12,3,San Francisco Giants,2014
+2014-10-14,4,San Francisco Giants,2014
+2014-10-15,5,San Francisco Giants,2014
+2014-10-16,6,San Francisco Giants,2014
+2014-10-21,7,San Francisco Giants,2014
+2014-10-22,6,San Francisco Giants,2014
+2014-10-24,5,San Francisco Giants,2014
+2014-10-25,6,San Francisco Giants,2014
+2014-10-26,7,San Francisco Giants,2014
+2014-10-28,6,San Francisco Giants,2014
+2014-10-29,7,San Francisco Giants,2014
+2014-09-30,1,Kansas City Royals,2014
+2014-10-02,2,Kansas City Royals,2014
+2014-10-03,3,Kansas City Royals,2014
+2014-10-05,4,Kansas City Royals,2014
+2014-10-10,5,Kansas City Royals,2014
+2014-10-11,6,Kansas City Royals,2014
+2014-10-14,7,Kansas City Royals,2014
+2014-10-15,8,Kansas City Royals,2014
+2014-10-21,7,Kansas City Royals,2014
+2014-10-22,8,Kansas City Royals,2014
+2014-10-24,9,Kansas City Royals,2014
+2014-10-25,8,Kansas City Royals,2014
+2014-10-26,7,Kansas City Royals,2014
+2014-10-28,8,Kansas City Royals,2014
+2014-10-29,7,Kansas City Royals,2014
+2014-10-02,-1,Detroit Tigers,2014
+2014-10-03,-2,Detroit Tigers,2014
+2014-10-05,-3,Detroit Tigers,2014
+2014-10-02,-1,LA Angels of Anaheim,2014
+2014-10-03,-2,LA Angels of Anaheim,2014
+2014-10-05,-3,LA Angels of Anaheim,2014
+2014-10-03,-1,Washington Nationals,2014
+2014-10-04,-2,Washington Nationals,2014
+2014-10-06,-1,Washington Nationals,2014
+2014-10-07,-2,Washington Nationals,2014
+2015-10-09,-1,Los Angeles Dodgers,2015
+2015-10-10,0,Los Angeles Dodgers,2015
+2015-10-12,-1,Los Angeles Dodgers,2015
+2015-10-13,0,Los Angeles Dodgers,2015
+2015-10-15,-1,Los Angeles Dodgers,2015
+2015-10-07,-1,Pittsburgh Pirates,2015
+2015-10-09,1,St. Louis Cardinals,2015
+2015-10-10,0,St. Louis Cardinals,2015
+2015-10-12,-1,St. Louis Cardinals,2015
+2015-10-13,-2,St. Louis Cardinals,2015
+2015-10-08,1,Texas Rangers,2015
+2015-10-09,2,Texas Rangers,2015
+2015-10-11,1,Texas Rangers,2015
+2015-10-12,0,Texas Rangers,2015
+2015-10-14,-1,Texas Rangers,2015
+2015-10-07,1,Chicago Cubs,2015
+2015-10-09,0,Chicago Cubs,2015
+2015-10-10,1,Chicago Cubs,2015
+2015-10-12,2,Chicago Cubs,2015
+2015-10-13,3,Chicago Cubs,2015
+2015-10-17,2,Chicago Cubs,2015
+2015-10-18,1,Chicago Cubs,2015
+2015-10-20,0,Chicago Cubs,2015
+2015-10-21,-1,Chicago Cubs,2015
+2015-10-08,-1,Toronto Blue Jays,2015
+2015-10-09,-2,Toronto Blue Jays,2015
+2015-10-11,-1,Toronto Blue Jays,2015
+2015-10-12,0,Toronto Blue Jays,2015
+2015-10-14,1,Toronto Blue Jays,2015
+2015-10-16,0,Toronto Blue Jays,2015
+2015-10-17,-1,Toronto Blue Jays,2015
+2015-10-19,0,Toronto Blue Jays,2015
+2015-10-20,-1,Toronto Blue Jays,2015
+2015-10-21,0,Toronto Blue Jays,2015
+2015-10-23,-1,Toronto Blue Jays,2015
+2015-10-08,-1,Kansas City Royals,2015
+2015-10-09,0,Kansas City Royals,2015
+2015-10-11,-1,Kansas City Royals,2015
+2015-10-12,0,Kansas City Royals,2015
+2015-10-14,1,Kansas City Royals,2015
+2015-10-16,2,Kansas City Royals,2015
+2015-10-17,3,Kansas City Royals,2015
+2015-10-19,2,Kansas City Royals,2015
+2015-10-20,3,Kansas City Royals,2015
+2015-10-21,2,Kansas City Royals,2015
+2015-10-23,3,Kansas City Royals,2015
+2015-10-27,4,Kansas City Royals,2015
+2015-10-28,5,Kansas City Royals,2015
+2015-10-30,4,Kansas City Royals,2015
+2015-10-31,5,Kansas City Royals,2015
+2015-11-01,6,Kansas City Royals,2015
+2015-10-09,1,New York Mets,2015
+2015-10-10,0,New York Mets,2015
+2015-10-12,1,New York Mets,2015
+2015-10-13,0,New York Mets,2015
+2015-10-15,1,New York Mets,2015
+2015-10-17,2,New York Mets,2015
+2015-10-18,3,New York Mets,2015
+2015-10-20,4,New York Mets,2015
+2015-10-21,5,New York Mets,2015
+2015-10-27,4,New York Mets,2015
+2015-10-28,3,New York Mets,2015
+2015-10-30,4,New York Mets,2015
+2015-10-31,3,New York Mets,2015
+2015-11-01,2,New York Mets,2015
+2015-10-06,-1,New York Yankees,2015
+2015-10-06,1,Houston Astros,2015
+2015-10-08,2,Houston Astros,2015
+2015-10-09,1,Houston Astros,2015
+2015-10-11,2,Houston Astros,2015
+2015-10-12,1,Houston Astros,2015
+2015-10-14,0,Houston Astros,2015
+2016-10-06,-1,Boston Red Sox,2016
+2016-10-07,-2,Boston Red Sox,2016
+2016-10-10,-3,Boston Red Sox,2016
+2016-10-04,-1,Baltimore Orioles,2016
+2016-10-07,1,Los Angeles Dodgers,2016
+2016-10-09,0,Los Angeles Dodgers,2016
+2016-10-10,-1,Los Angeles Dodgers,2016
+2016-10-11,0,Los Angeles Dodgers,2016
+2016-10-13,1,Los Angeles Dodgers,2016
+2016-10-15,0,Los Angeles Dodgers,2016
+2016-10-16,1,Los Angeles Dodgers,2016
+2016-10-18,2,Los Angeles Dodgers,2016
+2016-10-19,1,Los Angeles Dodgers,2016
+2016-10-20,0,Los Angeles Dodgers,2016
+2016-10-22,-1,Los Angeles Dodgers,2016
+2016-10-06,-1,Texas Rangers,2016
+2016-10-07,-2,Texas Rangers,2016
+2016-10-09,-3,Texas Rangers,2016
+2016-10-07,1,Chicago Cubs,2016
+2016-10-08,2,Chicago Cubs,2016
+2016-10-10,1,Chicago Cubs,2016
+2016-10-11,2,Chicago Cubs,2016
+2016-10-15,3,Chicago Cubs,2016
+2016-10-16,2,Chicago Cubs,2016
+2016-10-18,1,Chicago Cubs,2016
+2016-10-19,2,Chicago Cubs,2016
+2016-10-20,3,Chicago Cubs,2016
+2016-10-22,4,Chicago Cubs,2016
+2016-10-25,3,Chicago Cubs,2016
+2016-10-26,4,Chicago Cubs,2016
+2016-10-28,3,Chicago Cubs,2016
+2016-10-29,2,Chicago Cubs,2016
+2016-10-30,3,Chicago Cubs,2016
+2016-11-01,4,Chicago Cubs,2016
+2016-11-02,5,Chicago Cubs,2016
+2016-10-04,1,Toronto Blue Jays,2016
+2016-10-06,2,Toronto Blue Jays,2016
+2016-10-07,3,Toronto Blue Jays,2016
+2016-10-09,4,Toronto Blue Jays,2016
+2016-10-14,3,Toronto Blue Jays,2016
+2016-10-15,2,Toronto Blue Jays,2016
+2016-10-17,1,Toronto Blue Jays,2016
+2016-10-18,2,Toronto Blue Jays,2016
+2016-10-19,1,Toronto Blue Jays,2016
+2016-10-05,1,San Francisco Giants,2016
+2016-10-07,0,San Francisco Giants,2016
+2016-10-08,-1,San Francisco Giants,2016
+2016-10-10,0,San Francisco Giants,2016
+2016-10-11,-1,San Francisco Giants,2016
+2016-10-05,-1,New York Mets,2016
+2016-10-06,1,Cleveland Indians,2016
+2016-10-07,2,Cleveland Indians,2016
+2016-10-10,3,Cleveland Indians,2016
+2016-10-14,4,Cleveland Indians,2016
+2016-10-15,5,Cleveland Indians,2016
+2016-10-17,6,Cleveland Indians,2016
+2016-10-18,5,Cleveland Indians,2016
+2016-10-19,6,Cleveland Indians,2016
+2016-10-25,7,Cleveland Indians,2016
+2016-10-26,6,Cleveland Indians,2016
+2016-10-28,7,Cleveland Indians,2016
+2016-10-29,8,Cleveland Indians,2016
+2016-10-30,7,Cleveland Indians,2016
+2016-11-01,6,Cleveland Indians,2016
+2016-11-02,5,Cleveland Indians,2016
+2016-10-07,-1,Washington Nationals,2016
+2016-10-09,0,Washington Nationals,2016
+2016-10-10,1,Washington Nationals,2016
+2016-10-11,0,Washington Nationals,2016
+2016-10-13,-1,Washington Nationals,2016
+2017-10-05,-1,Boston Red Sox,2017
+2017-10-06,-2,Boston Red Sox,2017
+2017-10-08,-1,Boston Red Sox,2017
+2017-10-09,-2,Boston Red Sox,2017
+2017-10-06,1,Los Angeles Dodgers,2017
+2017-10-07,2,Los Angeles Dodgers,2017
+2017-10-09,3,Los Angeles Dodgers,2017
+2017-10-14,4,Los Angeles Dodgers,2017
+2017-10-15,5,Los Angeles Dodgers,2017
+2017-10-17,6,Los Angeles Dodgers,2017
+2017-10-18,5,Los Angeles Dodgers,2017
+2017-10-19,6,Los Angeles Dodgers,2017
+2017-10-24,7,Los Angeles Dodgers,2017
+2017-10-25,6,Los Angeles Dodgers,2017
+2017-10-27,5,Los Angeles Dodgers,2017
+2017-10-28,6,Los Angeles Dodgers,2017
+2017-10-29,5,Los Angeles Dodgers,2017
+2017-10-31,6,Los Angeles Dodgers,2017
+2017-11-01,5,Los Angeles Dodgers,2017
+2017-10-06,1,Chicago Cubs,2017
+2017-10-07,0,Chicago Cubs,2017
+2017-10-09,1,Chicago Cubs,2017
+2017-10-11,0,Chicago Cubs,2017
+2017-10-12,1,Chicago Cubs,2017
+2017-10-14,0,Chicago Cubs,2017
+2017-10-15,-1,Chicago Cubs,2017
+2017-10-17,-2,Chicago Cubs,2017
+2017-10-18,-1,Chicago Cubs,2017
+2017-10-19,-2,Chicago Cubs,2017
+2017-10-03,-1,Minnesota Twins,2017
+2017-10-03,1,New York Yankees,2017
+2017-10-05,0,New York Yankees,2017
+2017-10-06,-1,New York Yankees,2017
+2017-10-08,0,New York Yankees,2017
+2017-10-09,1,New York Yankees,2017
+2017-10-11,2,New York Yankees,2017
+2017-10-13,1,New York Yankees,2017
+2017-10-14,0,New York Yankees,2017
+2017-10-16,1,New York Yankees,2017
+2017-10-17,2,New York Yankees,2017
+2017-10-18,3,New York Yankees,2017
+2017-10-20,2,New York Yankees,2017
+2017-10-21,1,New York Yankees,2017
+2017-10-05,1,Cleveland Indians,2017
+2017-10-06,2,Cleveland Indians,2017
+2017-10-08,1,Cleveland Indians,2017
+2017-10-09,0,Cleveland Indians,2017
+2017-10-11,-1,Cleveland Indians,2017
+2017-10-05,1,Houston Astros,2017
+2017-10-06,2,Houston Astros,2017
+2017-10-08,1,Houston Astros,2017
+2017-10-09,2,Houston Astros,2017
+2017-10-13,3,Houston Astros,2017
+2017-10-14,4,Houston Astros,2017
+2017-10-16,3,Houston Astros,2017
+2017-10-17,2,Houston Astros,2017
+2017-10-18,1,Houston Astros,2017
+2017-10-20,2,Houston Astros,2017
+2017-10-21,3,Houston Astros,2017
+2017-10-24,2,Houston Astros,2017
+2017-10-25,3,Houston Astros,2017
+2017-10-27,4,Houston Astros,2017
+2017-10-28,3,Houston Astros,2017
+2017-10-29,4,Houston Astros,2017
+2017-10-31,3,Houston Astros,2017
+2017-11-01,4,Houston Astros,2017
+2017-10-04,-1,Colorado Rockies,2017
+2017-10-04,1,Arizona D'Backs,2017
+2017-10-06,0,Arizona D'Backs,2017
+2017-10-07,-1,Arizona D'Backs,2017
+2017-10-09,-2,Arizona D'Backs,2017
+2017-10-06,-1,Washington Nationals,2017
+2017-10-07,0,Washington Nationals,2017
+2017-10-09,-1,Washington Nationals,2017
+2017-10-11,0,Washington Nationals,2017
+2017-10-12,-1,Washington Nationals,2017
+2018-10-05,1,Boston Red Sox,2018
+2018-10-06,0,Boston Red Sox,2018
+2018-10-08,1,Boston Red Sox,2018
+2018-10-09,2,Boston Red Sox,2018
+2018-10-13,1,Boston Red Sox,2018
+2018-10-14,2,Boston Red Sox,2018
+2018-10-16,3,Boston Red Sox,2018
+2018-10-17,4,Boston Red Sox,2018
+2018-10-18,5,Boston Red Sox,2018
+2018-10-23,6,Boston Red Sox,2018
+2018-10-24,7,Boston Red Sox,2018
+2018-10-26,6,Boston Red Sox,2018
+2018-10-27,7,Boston Red Sox,2018
+2018-10-28,8,Boston Red Sox,2018
+2018-10-04,1,Los Angeles Dodgers,2018
+2018-10-05,2,Los Angeles Dodgers,2018
+2018-10-07,1,Los Angeles Dodgers,2018
+2018-10-08,2,Los Angeles Dodgers,2018
+2018-10-12,1,Los Angeles Dodgers,2018
+2018-10-13,2,Los Angeles Dodgers,2018
+2018-10-15,1,Los Angeles Dodgers,2018
+2018-10-16,2,Los Angeles Dodgers,2018
+2018-10-17,3,Los Angeles Dodgers,2018
+2018-10-19,2,Los Angeles Dodgers,2018
+2018-10-20,3,Los Angeles Dodgers,2018
+2018-10-23,2,Los Angeles Dodgers,2018
+2018-10-24,1,Los Angeles Dodgers,2018
+2018-10-26,2,Los Angeles Dodgers,2018
+2018-10-27,1,Los Angeles Dodgers,2018
+2018-10-28,0,Los Angeles Dodgers,2018
+2018-10-03,-1,Oakland Athletics,2018
+2018-10-02,-1,Chicago Cubs,2018
+2018-10-04,-1,Atlanta Braves,2018
+2018-10-05,-2,Atlanta Braves,2018
+2018-10-07,-1,Atlanta Braves,2018
+2018-10-08,-2,Atlanta Braves,2018
+2018-10-03,1,New York Yankees,2018
+2018-10-05,0,New York Yankees,2018
+2018-10-06,1,New York Yankees,2018
+2018-10-08,0,New York Yankees,2018
+2018-10-09,-1,New York Yankees,2018
+2018-10-04,1,Milwaukee Brewers,2018
+2018-10-05,2,Milwaukee Brewers,2018
+2018-10-07,3,Milwaukee Brewers,2018
+2018-10-12,4,Milwaukee Brewers,2018
+2018-10-13,3,Milwaukee Brewers,2018
+2018-10-15,4,Milwaukee Brewers,2018
+2018-10-16,3,Milwaukee Brewers,2018
+2018-10-17,2,Milwaukee Brewers,2018
+2018-10-19,3,Milwaukee Brewers,2018
+2018-10-20,2,Milwaukee Brewers,2018
+2018-10-05,-1,Cleveland Indians,2018
+2018-10-06,-2,Cleveland Indians,2018
+2018-10-08,-3,Cleveland Indians,2018
+2018-10-05,1,Houston Astros,2018
+2018-10-06,2,Houston Astros,2018
+2018-10-08,3,Houston Astros,2018
+2018-10-13,4,Houston Astros,2018
+2018-10-14,3,Houston Astros,2018
+2018-10-16,2,Houston Astros,2018
+2018-10-17,1,Houston Astros,2018
+2018-10-18,0,Houston Astros,2018
+2018-10-02,1,Colorado Rockies,2018
+2018-10-04,0,Colorado Rockies,2018
+2018-10-05,-1,Colorado Rockies,2018
+2018-10-07,-2,Colorado Rockies,2018
+2019-10-03,1,Los Angeles Dodgers,2019
+2019-10-04,0,Los Angeles Dodgers,2019
+2019-10-06,1,Los Angeles Dodgers,2019
+2019-10-07,0,Los Angeles Dodgers,2019
+2019-10-09,-1,Los Angeles Dodgers,2019
+2019-10-02,-1,Oakland Athletics,2019
+2019-10-03,1,St. Louis Cardinals,2019
+2019-10-04,0,St. Louis Cardinals,2019
+2019-10-06,-1,St. Louis Cardinals,2019
+2019-10-07,0,St. Louis Cardinals,2019
+2019-10-09,1,St. Louis Cardinals,2019
+2019-10-11,0,St. Louis Cardinals,2019
+2019-10-12,-1,St. Louis Cardinals,2019
+2019-10-14,-2,St. Louis Cardinals,2019
+2019-10-15,-3,St. Louis Cardinals,2019
+2019-10-03,-1,Atlanta Braves,2019
+2019-10-04,0,Atlanta Braves,2019
+2019-10-06,1,Atlanta Braves,2019
+2019-10-07,0,Atlanta Braves,2019
+2019-10-09,-1,Atlanta Braves,2019
+2019-10-04,-1,Minnesota Twins,2019
+2019-10-05,-2,Minnesota Twins,2019
+2019-10-07,-3,Minnesota Twins,2019
+2019-10-04,1,New York Yankees,2019
+2019-10-05,2,New York Yankees,2019
+2019-10-07,3,New York Yankees,2019
+2019-10-12,4,New York Yankees,2019
+2019-10-13,3,New York Yankees,2019
+2019-10-15,2,New York Yankees,2019
+2019-10-17,1,New York Yankees,2019
+2019-10-18,2,New York Yankees,2019
+2019-10-19,1,New York Yankees,2019
+2019-10-01,-1,Milwaukee Brewers,2019
+2019-10-04,1,Houston Astros,2019
+2019-10-05,2,Houston Astros,2019
+2019-10-07,1,Houston Astros,2019
+2019-10-08,0,Houston Astros,2019
+2019-10-10,1,Houston Astros,2019
+2019-10-12,0,Houston Astros,2019
+2019-10-13,1,Houston Astros,2019
+2019-10-15,2,Houston Astros,2019
+2019-10-17,3,Houston Astros,2019
+2019-10-18,2,Houston Astros,2019
+2019-10-19,3,Houston Astros,2019
+2019-10-22,2,Houston Astros,2019
+2019-10-23,1,Houston Astros,2019
+2019-10-25,2,Houston Astros,2019
+2019-10-26,3,Houston Astros,2019
+2019-10-27,4,Houston Astros,2019
+2019-10-29,3,Houston Astros,2019
+2019-10-30,2,Houston Astros,2019
+2019-10-01,1,Washington Nationals,2019
+2019-10-03,0,Washington Nationals,2019
+2019-10-04,1,Washington Nationals,2019
+2019-10-06,0,Washington Nationals,2019
+2019-10-07,1,Washington Nationals,2019
+2019-10-09,2,Washington Nationals,2019
+2019-10-11,3,Washington Nationals,2019
+2019-10-12,4,Washington Nationals,2019
+2019-10-14,5,Washington Nationals,2019
+2019-10-15,6,Washington Nationals,2019
+2019-10-22,7,Washington Nationals,2019
+2019-10-23,8,Washington Nationals,2019
+2019-10-25,7,Washington Nationals,2019
+2019-10-26,6,Washington Nationals,2019
+2019-10-27,5,Washington Nationals,2019
+2019-10-29,6,Washington Nationals,2019
+2019-10-30,7,Washington Nationals,2019
+2019-10-02,1,Tampa Bay Rays,2019
+2019-10-04,0,Tampa Bay Rays,2019
+2019-10-05,-1,Tampa Bay Rays,2019
+2019-10-07,0,Tampa Bay Rays,2019
+2019-10-08,1,Tampa Bay Rays,2019
+2019-10-10,0,Tampa Bay Rays,2019
+2020-09-29,1,Chicago White Sox,2020
+2020-09-30,0,Chicago White Sox,2020
+2020-10-01,-1,Chicago White Sox,2020
+2020-09-30,-1,Cincinnati Reds,2020
+2020-10-01,-2,Cincinnati Reds,2020
+2020-09-30,1,Los Angeles Dodgers,2020
+2020-10-01,2,Los Angeles Dodgers,2020
+2020-10-06,3,Los Angeles Dodgers,2020
+2020-10-07,4,Los Angeles Dodgers,2020
+2020-10-08,5,Los Angeles Dodgers,2020
+2020-10-12,4,Los Angeles Dodgers,2020
+2020-10-13,3,Los Angeles Dodgers,2020
+2020-10-14,4,Los Angeles Dodgers,2020
+2020-10-15,3,Los Angeles Dodgers,2020
+2020-10-16,4,Los Angeles Dodgers,2020
+2020-10-17,5,Los Angeles Dodgers,2020
+2020-10-18,6,Los Angeles Dodgers,2020
+2020-10-20,7,Los Angeles Dodgers,2020
+2020-10-21,6,Los Angeles Dodgers,2020
+2020-10-23,7,Los Angeles Dodgers,2020
+2020-10-24,6,Los Angeles Dodgers,2020
+2020-10-25,7,Los Angeles Dodgers,2020
+2020-10-27,8,Los Angeles Dodgers,2020
+2020-09-29,-1,Oakland Athletics,2020
+2020-09-30,0,Oakland Athletics,2020
+2020-10-01,1,Oakland Athletics,2020
+2020-10-05,0,Oakland Athletics,2020
+2020-10-06,-1,Oakland Athletics,2020
+2020-10-07,0,Oakland Athletics,2020
+2020-10-08,-1,Oakland Athletics,2020
+2020-09-30,1,St. Louis Cardinals,2020
+2020-10-01,0,St. Louis Cardinals,2020
+2020-10-02,-1,St. Louis Cardinals,2020
+2020-09-30,-1,Chicago Cubs,2020
+2020-10-02,-2,Chicago Cubs,2020
+2020-09-29,-1,Toronto Blue Jays,2020
+2020-09-30,-2,Toronto Blue Jays,2020
+2020-09-30,1,Atlanta Braves,2020
+2020-10-01,2,Atlanta Braves,2020
+2020-10-06,3,Atlanta Braves,2020
+2020-10-07,4,Atlanta Braves,2020
+2020-10-08,5,Atlanta Braves,2020
+2020-10-12,6,Atlanta Braves,2020
+2020-10-13,7,Atlanta Braves,2020
+2020-10-14,6,Atlanta Braves,2020
+2020-10-15,7,Atlanta Braves,2020
+2020-10-16,6,Atlanta Braves,2020
+2020-10-17,5,Atlanta Braves,2020
+2020-10-18,4,Atlanta Braves,2020
+2020-09-29,-1,Minnesota Twins,2020
+2020-09-30,-2,Minnesota Twins,2020
+2020-09-30,-1,San Diego Padres,2020
+2020-10-01,0,San Diego Padres,2020
+2020-10-02,1,San Diego Padres,2020
+2020-10-06,0,San Diego Padres,2020
+2020-10-07,-1,San Diego Padres,2020
+2020-10-08,-2,San Diego Padres,2020
+2020-09-29,1,New York Yankees,2020
+2020-09-30,2,New York Yankees,2020
+2020-10-05,3,New York Yankees,2020
+2020-10-06,2,New York Yankees,2020
+2020-10-07,1,New York Yankees,2020
+2020-10-08,2,New York Yankees,2020
+2020-10-09,1,New York Yankees,2020
+2020-09-30,-1,Milwaukee Brewers,2020
+2020-10-01,-2,Milwaukee Brewers,2020
+2020-09-29,-1,Cleveland Indians,2020
+2020-09-30,-2,Cleveland Indians,2020
+2020-09-29,1,Houston Astros,2020
+2020-09-30,2,Houston Astros,2020
+2020-10-05,3,Houston Astros,2020
+2020-10-06,4,Houston Astros,2020
+2020-10-07,3,Houston Astros,2020
+2020-10-08,4,Houston Astros,2020
+2020-10-11,3,Houston Astros,2020
+2020-10-12,2,Houston Astros,2020
+2020-10-13,1,Houston Astros,2020
+2020-10-14,2,Houston Astros,2020
+2020-10-15,3,Houston Astros,2020
+2020-10-16,4,Houston Astros,2020
+2020-10-17,3,Houston Astros,2020
+2020-09-29,1,Tampa Bay Rays,2020
+2020-09-30,2,Tampa Bay Rays,2020
+2020-10-05,1,Tampa Bay Rays,2020
+2020-10-06,2,Tampa Bay Rays,2020
+2020-10-07,3,Tampa Bay Rays,2020
+2020-10-08,2,Tampa Bay Rays,2020
+2020-10-09,3,Tampa Bay Rays,2020
+2020-10-11,4,Tampa Bay Rays,2020
+2020-10-12,5,Tampa Bay Rays,2020
+2020-10-13,6,Tampa Bay Rays,2020
+2020-10-14,5,Tampa Bay Rays,2020
+2020-10-15,4,Tampa Bay Rays,2020
+2020-10-16,3,Tampa Bay Rays,2020
+2020-10-17,4,Tampa Bay Rays,2020
+2020-10-20,3,Tampa Bay Rays,2020
+2020-10-21,4,Tampa Bay Rays,2020
+2020-10-23,3,Tampa Bay Rays,2020
+2020-10-24,4,Tampa Bay Rays,2020
+2020-10-25,3,Tampa Bay Rays,2020
+2020-10-27,2,Tampa Bay Rays,2020
+2020-09-30,1,Miami Marlins,2020
+2020-10-02,2,Miami Marlins,2020
+2020-10-06,1,Miami Marlins,2020
+2020-10-07,0,Miami Marlins,2020
+2020-10-08,-1,Miami Marlins,2020
+2021-10-05,1,Boston Red Sox,2021
+2021-10-07,0,Boston Red Sox,2021
+2021-10-08,1,Boston Red Sox,2021
+2021-10-10,2,Boston Red Sox,2021
+2021-10-11,3,Boston Red Sox,2021
+2021-10-15,2,Boston Red Sox,2021
+2021-10-16,3,Boston Red Sox,2021
+2021-10-18,4,Boston Red Sox,2021
+2021-10-19,3,Boston Red Sox,2021
+2021-10-20,2,Boston Red Sox,2021
+2021-10-22,1,Boston Red Sox,2021
+2021-10-07,-1,Chicago White Sox,2021
+2021-10-08,-2,Chicago White Sox,2021
+2021-10-10,-1,Chicago White Sox,2021
+2021-10-12,-2,Chicago White Sox,2021
+2021-10-06,1,Los Angeles Dodgers,2021
+2021-10-08,0,Los Angeles Dodgers,2021
+2021-10-09,1,Los Angeles Dodgers,2021
+2021-10-11,0,Los Angeles Dodgers,2021
+2021-10-12,1,Los Angeles Dodgers,2021
+2021-10-14,2,Los Angeles Dodgers,2021
+2021-10-16,1,Los Angeles Dodgers,2021
+2021-10-17,0,Los Angeles Dodgers,2021
+2021-10-19,1,Los Angeles Dodgers,2021
+2021-10-20,0,Los Angeles Dodgers,2021
+2021-10-21,1,Los Angeles Dodgers,2021
+2021-10-23,0,Los Angeles Dodgers,2021
+2021-10-06,-1,St. Louis Cardinals,2021
+2021-10-08,1,San Francisco Giants,2021
+2021-10-09,0,San Francisco Giants,2021
+2021-10-11,1,San Francisco Giants,2021
+2021-10-12,0,San Francisco Giants,2021
+2021-10-14,-1,San Francisco Giants,2021
+2021-10-08,-1,Atlanta Braves,2021
+2021-10-09,0,Atlanta Braves,2021
+2021-10-11,1,Atlanta Braves,2021
+2021-10-12,2,Atlanta Braves,2021
+2021-10-16,3,Atlanta Braves,2021
+2021-10-17,4,Atlanta Braves,2021
+2021-10-19,3,Atlanta Braves,2021
+2021-10-20,4,Atlanta Braves,2021
+2021-10-21,3,Atlanta Braves,2021
+2021-10-23,4,Atlanta Braves,2021
+2021-10-26,5,Atlanta Braves,2021
+2021-10-27,4,Atlanta Braves,2021
+2021-10-29,5,Atlanta Braves,2021
+2021-10-30,6,Atlanta Braves,2021
+2021-10-31,5,Atlanta Braves,2021
+2021-11-02,6,Atlanta Braves,2021
+2021-10-05,-1,New York Yankees,2021
+2021-10-08,1,Milwaukee Brewers,2021
+2021-10-09,0,Milwaukee Brewers,2021
+2021-10-11,-1,Milwaukee Brewers,2021
+2021-10-12,-2,Milwaukee Brewers,2021
+2021-10-07,1,Houston Astros,2021
+2021-10-08,2,Houston Astros,2021
+2021-10-10,1,Houston Astros,2021
+2021-10-12,2,Houston Astros,2021
+2021-10-15,3,Houston Astros,2021
+2021-10-16,2,Houston Astros,2021
+2021-10-18,1,Houston Astros,2021
+2021-10-19,2,Houston Astros,2021
+2021-10-20,3,Houston Astros,2021
+2021-10-22,4,Houston Astros,2021
+2021-10-26,3,Houston Astros,2021
+2021-10-27,4,Houston Astros,2021
+2021-10-29,3,Houston Astros,2021
+2021-10-30,2,Houston Astros,2021
+2021-10-31,3,Houston Astros,2021
+2021-11-02,2,Houston Astros,2021
+2021-10-07,1,Tampa Bay Rays,2021
+2021-10-08,0,Tampa Bay Rays,2021
+2021-10-10,-1,Tampa Bay Rays,2021
+2021-10-11,-2,Tampa Bay Rays,2021
+2022-10-07,1,Seattle Mariners,2022
+2022-10-08,2,Seattle Mariners,2022
+2022-10-11,1,Seattle Mariners,2022
+2022-10-13,0,Seattle Mariners,2022
+2022-10-15,-1,Seattle Mariners,2022
+2022-10-11,1,Los Angeles Dodgers,2022
+2022-10-12,0,Los Angeles Dodgers,2022
+2022-10-14,-1,Los Angeles Dodgers,2022
+2022-10-15,-2,Los Angeles Dodgers,2022
+2022-10-07,-1,St. Louis Cardinals,2022
+2022-10-08,-2,St. Louis Cardinals,2022
+2022-10-07,-1,Toronto Blue Jays,2022
+2022-10-08,-2,Toronto Blue Jays,2022
+2022-10-11,-1,Atlanta Braves,2022
+2022-10-12,0,Atlanta Braves,2022
+2022-10-14,-1,Atlanta Braves,2022
+2022-10-15,-2,Atlanta Braves,2022
+2022-10-07,-1,New York Mets,2022
+2022-10-08,0,New York Mets,2022
+2022-10-09,-1,New York Mets,2022
+2022-10-07,1,San Diego Padres,2022
+2022-10-08,0,San Diego Padres,2022
+2022-10-09,1,San Diego Padres,2022
+2022-10-11,0,San Diego Padres,2022
+2022-10-12,1,San Diego Padres,2022
+2022-10-14,2,San Diego Padres,2022
+2022-10-15,3,San Diego Padres,2022
+2022-10-18,2,San Diego Padres,2022
+2022-10-19,3,San Diego Padres,2022
+2022-10-21,2,San Diego Padres,2022
+2022-10-22,1,San Diego Padres,2022
+2022-10-23,0,San Diego Padres,2022
+2022-10-07,1,Philadelphia Phillies,2022
+2022-10-08,2,Philadelphia Phillies,2022
+2022-10-11,3,Philadelphia Phillies,2022
+2022-10-12,2,Philadelphia Phillies,2022
+2022-10-14,3,Philadelphia Phillies,2022
+2022-10-15,4,Philadelphia Phillies,2022
+2022-10-18,5,Philadelphia Phillies,2022
+2022-10-19,4,Philadelphia Phillies,2022
+2022-10-21,5,Philadelphia Phillies,2022
+2022-10-22,6,Philadelphia Phillies,2022
+2022-10-23,7,Philadelphia Phillies,2022
+2022-10-28,8,Philadelphia Phillies,2022
+2022-10-29,7,Philadelphia Phillies,2022
+2022-11-01,8,Philadelphia Phillies,2022
+2022-11-02,7,Philadelphia Phillies,2022
+2022-11-03,6,Philadelphia Phillies,2022
+2022-11-05,5,Philadelphia Phillies,2022
+2022-10-11,1,New York Yankees,2022
+2022-10-14,0,New York Yankees,2022
+2022-10-15,-1,New York Yankees,2022
+2022-10-16,0,New York Yankees,2022
+2022-10-18,1,New York Yankees,2022
+2022-10-19,0,New York Yankees,2022
+2022-10-20,-1,New York Yankees,2022
+2022-10-22,-2,New York Yankees,2022
+2022-10-23,-3,New York Yankees,2022
+2022-10-11,1,Houston Astros,2022
+2022-10-13,2,Houston Astros,2022
+2022-10-15,3,Houston Astros,2022
+2022-10-19,4,Houston Astros,2022
+2022-10-20,5,Houston Astros,2022
+2022-10-22,6,Houston Astros,2022
+2022-10-23,7,Houston Astros,2022
+2022-10-28,6,Houston Astros,2022
+2022-10-29,7,Houston Astros,2022
+2022-11-01,6,Houston Astros,2022
+2022-11-02,7,Houston Astros,2022
+2022-11-03,8,Houston Astros,2022
+2022-11-05,9,Houston Astros,2022
+2022-10-07,-1,Tampa Bay Rays,2022
+2022-10-08,-2,Tampa Bay Rays,2022
+2022-10-07,1,Cleveland Guardians,2022
+2022-10-08,2,Cleveland Guardians,2022
+2022-10-11,1,Cleveland Guardians,2022
+2022-10-14,2,Cleveland Guardians,2022
+2022-10-15,3,Cleveland Guardians,2022
+2022-10-16,2,Cleveland Guardians,2022
+2022-10-18,1,Cleveland Guardians,2022
