@@ -32,9 +32,8 @@ with tab1:
 
 
 with tab2:
-    rand_int_year_tab2 = random.randint(1970, 2022)
     user_team = st.selectbox('Team', list(historical_plus_minus['Team'].unique()), index=19)
-    user_year = st.slider('Year', 1970, 2022, random.randint(1970, 2022), key='single_year_slider')
+    user_year = st.slider('Year', 1970, 2022, 2000, key='single_year_slider')
 
     outcome = fetch_team_playoff_outcome(user_team, user_year, historical_playoff_outcomes)
         
@@ -49,10 +48,8 @@ with tab2:
 
 
 with tab3:
-    rand_int_index_tab3 = random.randint(0, 5)
-    rand_int_year_tab3 = random.randint(1970, 2022)
-    user_div = st.selectbox('Division', ['AL East', 'AL Central', 'AL West', 'NL East', 'NL Central', 'NL West'], index=rand_int_index_tab3)
-    user_year = st.slider('Year', 1970, 2022, rand_int_year_tab3, key='b')
+    user_div = st.selectbox('Division', ['AL East', 'AL Central', 'AL West', 'NL East', 'NL Central', 'NL West'], index=2)
+    user_year = st.slider('Year', 1970, 2022, 2001, key='b')
     
     team1, team2, team3, team4, team5, team6, team7, team8, team9, color_dictionary = leauge_teams(user_div)
       
@@ -67,8 +64,7 @@ with tab3:
         
         
 with tab4:
-    rand_int_year_tab4 = random.randint(1970, 2022)
-    user_year = st.slider('Year', 1970, 2022, rand_int_year_tab4)
+    user_year = st.slider('Year', 1970, 2022, 2009)
     
     df = historical_plus_minus_playoff_only
     
@@ -80,8 +76,6 @@ with tab4:
         st.write("No data avaliable.")
     
 with tab5:
-    st.write('This website charts plus minus data for all MLB team seasons from 1970 to 2022.')
-    st.write('It was created in Python, using web scrapping technequies to obtain the data, and then transformed and plotted.')
     st.write('Have any questions? Connect with me.')
     st.write('Twitter: @AllStar_Stats')
     st.write('Email: brennanhurd@gmail.com')
